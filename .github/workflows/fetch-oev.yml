@@ -1,0 +1,70 @@
+name: Fetch oeffentlichevergabe.de (relay for Strato)
+
+# Why this workflow exists: the production server (Strato shared hosting,
+# stu166230184) cannot establish outbound HTTPS connections to
+# oeffentlichevergabe.de's IP (185.158.224.128) - confirmed via repeated
+# urllib timeouts and an independent `curl -v` control test that hung at the
+# raw TCP-connect stage while a control request to a different host (service.
+# bund.de) connected instantly. This looks like a network/firewall
+# restriction specific to that host on Strato's side, not a bug in the
+# fetcher or an outage at oeffentlichevergabe.de. Until Strato support
+# resolves it (or as a permanent workaround if they don't), this workflow
+# runs the SAME fetch_oeffentlichevergabe.py script on GitHub's own
+# infrastructure (which has no such restriction) and commits its output as
+# latest_oev.json. run_daily_digest.py on Strato then reads that file back
+# via a plain HTTPS GET to raw.githubusercontent.com/... - a request to
+# GitHub, not to oeffentlichevergabe.de, so the Strato-side block does not
+# apply to it.
+#
+# Note this workflow does NOT dedupe against the real master dataset
+# (ted_shaped_final.json lives only on Strato, not here) - it always emits
+# every keyword match found in the lookback window ("--dataset
+# empty_dataset.json" below means "treat as if nothing is known yet"). That
+# is intentional: the actual dedup against the master JSON (and the
+# cross-source dedup against TED/etc.) already happens on the Strato side in
+# run_daily_digest.py, so re-fetching the same already-known record here
+# every day is harmless - it just won't be added twice.
+
+on:
+  schedule:
+    # 03:30 UTC = 05:30 Uhr MESZ / 04:30 Uhr MEZ - deutlich vor dem
+    # 06-Uhr-Lauf des Cronjobs auf Strato, damit latest_oev.json aktuell ist,
+    # wenn run_daily_digest.py sie abruft. GitHub Actions schedules can run a
+    # few minutes late under load - this is a soft target, not a guarantee.
+    - cron: '30 3 * * *'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Fetch oeffentlichevergabe.de (last 3 days, no local dedup - Strato does that)
+        run: python3 fetch_oeffentlichevergabe.py --days 3 --out latest_oev.json --dataset empty_dataset.json
+
+      - name: Commit and push latest_oev.json if it changed
+        run: |
+          git config user.name "tender-oev-relay-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add latest_oev.json
+          git diff --cached --quiet || git commit -m "Update latest_oev.json ($(date -u +%Y-%m-%dT%H:%M:%SZ))"
+          # Rebase onto the latest origin/main right before pushing - actions/checkout@v4
+          # runs at job START, so if main advanced meanwhile (e.g. a manual push
+          # of an updated fetch_oeffentlichevergabe.py, or another workflow run),
+          # a plain `git push` fails with "fetch first" (observed live 2026-08-30,
+          # run right after fetch_oeffentlichevergabe.py's keyword-list update was
+          # pushed to main). Retry a few times to also cover the rare case of
+          # two runs racing each other at the push step itself.
+          for attempt in 1 2 3; do
+            git pull --rebase origin main && git push && break
+            echo "push attempt $attempt failed, retrying..."
+            sleep 5
+          done
