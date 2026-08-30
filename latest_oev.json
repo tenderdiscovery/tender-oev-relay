@@ -31,5 +31,110 @@
       "city": "Bremen"
     },
     "source": "oeffentlichevergabe.de"
+  },
+  {
+    "publicationNumber": "OEV-08573a4c-ec61-4844-97b6-5ca2ae7ccab0",
+    "title": "OSLOCO Hessen",
+    "buyerName": "GovTech Platforms GmbH",
+    "country": "DEU",
+    "publicationDate": "2026-08-27",
+    "deadline": null,
+    "noticeType": "cn-standard",
+    "procedureType": null,
+    "cpvCodes": [
+      "72200000",
+      "72212000",
+      "72263000",
+      "72266000"
+    ],
+    "estimatedValue": null,
+    "currency": null,
+    "description": "Gegenstand dieser Ausschreibung ist die Weiterentwicklung der bestehenden Open-Source-Low-Code-Plattform Limbas zu einer offenen, intuitiven Entwicklungsumgebung für die hessische Verwaltung (OSLOCO-Hessen). Die Lösung soll speziell auf Verwaltungsprozesse zugeschnitten sein, intuitive grafische Werkzeuge bieten, barrierearme Schulungs- und Unterstützungsangebote bereitstellen sowie Datenschutz und Datensouveränität der Verwaltungen vollständig wahren.",
+    "originalUrl": "https://oeffentlichevergabe.de/ui/de/search/details?noticeId=08573a4c-ec61-4844-97b6-5ca2ae7ccab0",
+    "lotName": null,
+    "awardedTo": null,
+    "documentsUrl": "https://oeffentlichevergabe.de/ui/de/search/details?noticeId=08573a4c-ec61-4844-97b6-5ca2ae7ccab0",
+    "contractDurationMonths": null,
+    "buyerEmail": null,
+    "buyerLegalType": "pub-undert-cga",
+    "buyerActivity": null,
+    "contractFolderId": null,
+    "internalId": "08573a4c-ec61-4844-97b6-5ca2ae7ccab0",
+    "procedureCode": null,
+    "accelerated": null,
+    "performanceLocation": {
+      "postalZone": "13355",
+      "city": "Berlin"
+    },
+    "source": "oeffentlichevergabe.de"
+  },
+  {
+    "publicationNumber": "OEV-13bd4fe4-789d-4de9-a39e-ff3f341ee475",
+    "title": "Forschungsprojekt - DZSF - Evaluation der Potentiale sektorspezifischer Cybersicherheitsprofile",
+    "buyerName": "Eisenbahn-Bundesamt",
+    "country": "DEU",
+    "publicationDate": "2026-08-27",
+    "deadline": null,
+    "noticeType": "can-standard",
+    "procedureType": null,
+    "cpvCodes": [
+      "73000000",
+      "73100000",
+      "73300000",
+      "73420000"
+    ],
+    "estimatedValue": null,
+    "currency": null,
+    "description": "Eisenbahnspezifische Cybersicherheitsprofile legen geeignete Anforderungen und Spezifikationen für bestimmte Prozesse oder Komponenten in Bausteinen vergleichbar zum BSI-IT-Grundschutz fest. Es soll bestimmt werden, inwieweit diese das Security-Engineering beschleunigen, sowie den sicheren Betrieb von Systemen im Eisenbahnsektor vereinfachen und verbessern können und für welche Teile des Eisenbahnsektors eine umfassende Erarbeitung solcher Profile lohnenswert wäre.\nDie Digitalisierung und steigende Bedrohungslage machen Cybersicherheit in der kritischen Infrastruktur Eisenbahn besonders wichtig. Die Systemkomplexität, regulatorische Anforderungen (z. B. NIS2, CRA) und der Bedarf an Spezialwissen wächst. Normen wie ISO/IEC 27000, Common Criteria und IEC 62443 oder noch spezifischer die CLC/TS 50701 geben einen umfassenden Rahmen vor, sind aber umfangreich und lassen viel Spielraum, sodass individuelle Risikobewertungen aufwendig bleiben. Der BSI-IT-Grundschutz zeigt beispielhaft, wie standardisierte Bausteine allgemeine Anforderungen für typische Prozesse/Systeme bündeln können und damit Engineering und Betrieb vereinfachen. Für das System Eisenbahn gibt es aber bisher kein eigenes ähnliches Konzept. Der EU-Rail System-Pillar-Ansatz gibt hingegen möglichst präzise Spezifikationen für ein generisches Systemmodell vor. Eisenbahnspezifische Cybersicherheitsprofile könnten die Vorteile beider Konzepte vereinen.",
+    "originalUrl": "https://oeffentlichevergabe.de/ui/de/search/details?noticeId=13bd4fe4-789d-4de9-a39e-ff3f341ee475",
+    "lotName": null,
+    "awardedTo": null,
+    "documentsUrl": "https://oeffentlichevergabe.de/ui/de/search/details?noticeId=13bd4fe4-789d-4de9-a39e-ff3f341ee475",
+    "contractDurationMonths": null,
+    "buyerEmail": null,
+    "buyerLegalType": "omu-bbeh-niedrig",
+    "buyerActivity": null,
+    "contractFolderId": null,
+    "internalId": "13bd4fe4-789d-4de9-a39e-ff3f341ee475",
+    "procedureCode": null,
+    "accelerated": null,
+    "performanceLocation": {
+      "postalZone": "53175",
+      "city": "Bonn"
+    },
+    "source": "oeffentlichevergabe.de"
+  },
+  {
+    "publicationNumber": "OEV-ce810987-7c05-4299-ab8e-685d21479c7c",
+    "title": "Digitalprojekt Jahrtausendturm \"to go\"\nProgressive Web-App / Web-App und Content-Management-System",
+    "buyerName": "Natur- und Kulturpark Elbaue GmbH c/o MVGM GmbH",
+    "country": "DEU",
+    "publicationDate": "2026-08-27",
+    "deadline": null,
+    "noticeType": "cn-standard",
+    "procedureType": null,
+    "cpvCodes": [
+      "63121000"
+    ],
+    "estimatedValue": null,
+    "currency": null,
+    "description": "Die Natur- und Kulturpark Elbaue GmbH beabsichtigt, im Rahmen eines öffentlichen Vergabeverfahrens die Entwicklung, Implementierung, Inbetriebnahme sowie den mehrjährigen Betrieb einer digitalen Museums-App für den Jahrtausendturm im Elbauenpark Magdeburg zu vergeben. Grundlage des Vorhabens ist die Zielsetzung, die Besucherinnen und Besucher des Jahrtausendturms entlang der gesamten Visitor Journey digital zu begleiten – vor, während und nach dem Besuch – und zugleich den Zugang zu den Inhalten der Ausstellung für unterschiedliche Zielgruppen zu erweitern.\nDer Jahrtausendturm befindet sich im Elbauenpark Magdeburg, Tessenowstraße 5a, 39114 Magdeburg. Die Ausstellung erstreckt sich über sechs Ebenen mit rund 8.030 m² Ausstellungsfläche und behandelt rund 6.000 Jahre Menschheits- und Technikgeschichte. Derzeit umfasst die Ausstellung 251 Texttafeln, 120 textile Darstellungen sowie 158 Exponate, von denen 61 interaktiv sind; WLAN steht im Gebäude flächendeckend zur Verfügung.\nGegenstand der Vergabe ist die Entwicklung einer Progressive Web-App (PWA) einschließlich eines Content-Management-Systems (CMS) zur redaktionellen und technischen Verwaltung sämtlicher Inhalte. Die Anwendung soll auf den Endgeräten der Besucherinnen und Besucher ohne Installation nutzbar sein, sowohl auf Android- als auch auf iOS-Geräten funktionieren und responsive auf vollständig HTML5-Standard unterstützenden Browsern und mindestens auf Betriebssystemen wie Microsoft Windows, Apple macOS und Linux laufen.\nDie App soll sowohl Funktionen für die Nutzung außerhalb des Museums als auch für die Nutzung innerhalb des Museums (unterschiedlich) bereitstellen. Dazu zählen insbesondere 360-Grad-Panoramen, Serviceinformationen, mehrsprachige Inhalte, Touren und Rundgänge, Audio-, Video-, Text- und Bildinhalte, QR-Code-basierte Exponataufrufe, Wissensrallyes, Social-Sharing-Funktionen, Feedbackmöglichkeiten, leichte Sprache sowie Screenreader-Unterstützung.\nDas Projekt verfolgt einen ganzheitlichen Vermittlungsansatz. Neben der Informationsvermittlung vor Ort soll die App auch Schließzeiten überbrücken, digitale Zugänge für Schulklassen, Familien, Fachpublikum und mobilitätseingeschränkte Personen schaffen sowie Interaktion, Partizipation und Nachbereitung des Besuchs ermöglichen. Eine, der beispielsweise zielgruppenspezifische, Funktion soll es Pädagogen ermöglichen, bereits vor dem Museumsbesuch eine individuelle Rallye für ihre Schulklasse zusammenzustellen. Über einen eigens generierten Code kann die Rallye anschließend jedem Schüler zur Verfügung gestellt werden. Nach dem Museumsbesuch können die Ergebnisse der einzelnen Schüler individuell ausgewertet werden.\nEin besonderer Fokus liegt auf Nachhaltigkeit, langfristiger Betriebsfähigkeit und Datenhoheit. Zudem sind DSGVO-Konformität, digitale Barrierefreiheit, Änderbarkeit der Software während der Wartungsphase, nachvollziehbare technische Dokumentation sowie eine Absicherung der Weiterentwicklung im Störungs- oder Ausfallfall des Auftragnehmers sicherzustellen.\nDas Briefing ist nach der vorliegenden Leistungsbeschreibung voraussichtlich für Dezember 2026 vorgesehen. Die Fertigstellung soll bis Mitte 2027 erfolgen.",
+    "originalUrl": "https://oeffentlichevergabe.de/ui/de/search/details?noticeId=ce810987-7c05-4299-ab8e-685d21479c7c",
+    "lotName": null,
+    "awardedTo": null,
+    "documentsUrl": "https://oeffentlichevergabe.de/ui/de/search/details?noticeId=ce810987-7c05-4299-ab8e-685d21479c7c",
+    "contractDurationMonths": null,
+    "buyerEmail": null,
+    "buyerLegalType": "pub-undert-ra",
+    "buyerActivity": null,
+    "contractFolderId": null,
+    "internalId": "ce810987-7c05-4299-ab8e-685d21479c7c",
+    "procedureCode": null,
+    "accelerated": null,
+    "performanceLocation": {
+      "postalZone": "39114",
+      "city": "Magdeburg"
+    },
+    "source": "oeffentlichevergabe.de"
   }
 ]
