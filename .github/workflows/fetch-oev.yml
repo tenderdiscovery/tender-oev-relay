@@ -1,0 +1,30 @@
+name: Fetch oeffentlichevergabe.de (relay for Strato)
+
+on:
+  schedule:
+    - cron: '30 3 * * *'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Fetch oeffentlichevergabe.de (last 3 days, no local dedup - Strato does that)
+        run: python3 fetch_oeffentlichevergabe.py --days 3 --out latest_oev.json --dataset empty_dataset.json
+
+      - name: Commit and push latest_oev.json if it changed
+        run: |
+          git config user.name "tender-oev-relay-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add latest_oev.json
+          git diff --cached --quiet || git commit -m "Update latest_oev.json ($(date -u +%Y-%m-%dT%H:%M:%SZ))"
+          git push
