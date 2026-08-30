@@ -1,0 +1,35 @@
+[
+  {
+    "publicationNumber": "OEV-f76aba58-5344-4a03-8b85-875d971032bc",
+    "title": "Bereitstellung IGEL Healthcare (Plus) Renewal (Lizenzverlängerungen)",
+    "buyerName": "Gesundheit Nord gGmbH",
+    "country": "DEU",
+    "publicationDate": "2026-08-28",
+    "deadline": null,
+    "noticeType": "cn-standard",
+    "procedureType": null,
+    "cpvCodes": [
+      "48000000"
+    ],
+    "estimatedValue": null,
+    "currency": null,
+    "description": "Bereitstellung der Lizenzverlängerung (Renewal) für 5.044 bestehende Lizenzen des IGEL-Produktes Igel Healthcare (Plus) über einen Zeitraum von 3 Jahren (02.01.2027 bis einschließlich 01.01.2030). Weitere Informationen können den Vergabeunterlagen entnommen werden.",
+    "originalUrl": "https://oeffentlichevergabe.de/ui/de/search/details?noticeId=f76aba58-5344-4a03-8b85-875d971032bc",
+    "lotName": null,
+    "awardedTo": null,
+    "documentsUrl": "https://oeffentlichevergabe.de/ui/de/search/details?noticeId=f76aba58-5344-4a03-8b85-875d971032bc",
+    "contractDurationMonths": null,
+    "buyerEmail": null,
+    "buyerLegalType": "pub-undert",
+    "buyerActivity": null,
+    "contractFolderId": null,
+    "internalId": "f76aba58-5344-4a03-8b85-875d971032bc",
+    "procedureCode": null,
+    "accelerated": null,
+    "performanceLocation": {
+      "postalZone": "28197",
+      "city": "Bremen"
+    },
+    "source": "oeffentlichevergabe.de"
+  }
+]
