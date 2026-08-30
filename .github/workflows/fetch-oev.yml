@@ -48,7 +48,7 @@ jobs:
           python-version: '3.11'
 
       - name: Fetch oeffentlichevergabe.de (last 3 days, no local dedup - Strato does that)
-        run: python3 fetch_oeffentlichevergabe.py --days 30 --out latest_oev.json --dataset empty_dataset.json
+        run: python3 fetch_oeffentlichevergabe.py --days 3 --out latest_oev.json --dataset empty_dataset.json
 
       - name: Commit and push latest_oev.json if it changed
         run: |
