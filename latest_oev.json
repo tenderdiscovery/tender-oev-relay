@@ -1,5 +1,38 @@
 [
   {
+    "publicationNumber": "OEV-af3833c3-07c7-4533-ae27-51f61cb8bb2a",
+    "title": "Wartungsverlängerung bestehender SEP Symantec Endpoint Protection Lizenzen",
+    "buyerName": "Robert Koch-Institut, Beschaffung",
+    "country": "DEU",
+    "publicationDate": "2026-09-01",
+    "deadline": null,
+    "noticeType": "cn-standard",
+    "procedureType": null,
+    "cpvCodes": [
+      "72267000"
+    ],
+    "estimatedValue": null,
+    "currency": null,
+    "description": "Wartungsverlängerung bestehender 4450 Symantec Endpoint Protection Lizenzen\nWartungsverlängerung bestehender 4450 Symantec Endpoint Protection Lizenzen für 12 Monate",
+    "originalUrl": "https://oeffentlichevergabe.de/ui/de/search/details?noticeId=af3833c3-07c7-4533-ae27-51f61cb8bb2a",
+    "lotName": null,
+    "awardedTo": null,
+    "documentsUrl": "https://oeffentlichevergabe.de/ui/de/search/details?noticeId=af3833c3-07c7-4533-ae27-51f61cb8bb2a",
+    "contractDurationMonths": null,
+    "buyerEmail": null,
+    "buyerLegalType": null,
+    "buyerActivity": null,
+    "contractFolderId": null,
+    "internalId": "af3833c3-07c7-4533-ae27-51f61cb8bb2a",
+    "procedureCode": null,
+    "accelerated": null,
+    "performanceLocation": {
+      "postalZone": "13353",
+      "city": "Berlin"
+    },
+    "source": "oeffentlichevergabe.de"
+  },
+  {
     "publicationNumber": "OEV-dc4b14a0-653c-406c-b3c3-17c898859e9c",
     "title": "System zur Angriffserkennung",
     "buyerName": "Flughafen Stuttgart GmbH",
