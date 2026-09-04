@@ -1,5 +1,40 @@
 [
   {
+    "publicationNumber": "OEV-1d705002-241e-4c2a-9236-ee1438dbd682",
+    "title": "Security Managed Services",
+    "buyerName": "Universitätsklinikum Frankfurt",
+    "country": "DEU",
+    "publicationDate": "2026-09-03",
+    "deadline": null,
+    "noticeType": "cn-standard",
+    "procedureType": null,
+    "cpvCodes": [
+      "72253000",
+      "72315000",
+      "72500000"
+    ],
+    "estimatedValue": null,
+    "currency": null,
+    "description": "Gegenstand der Beschaffung ist ein Cybersecurity Managed Service mit fünf Leistungsbereichen in einem Los: 1. SOC / SIEM – zentrale Detektion, Korrelation und Analyse; 2. NDR – netzwerkbasierte Erkennung und Anomalieanalyse; 3. Vulnerability Management - Scanning, Triage, Priorisierung, Remediation-Tracking; 4. EDR-Management – Betrieb der EDR-Plattform für ca. 11.200 Endpunkte; 5. IoMT-Security – passive Überwachung von ca. 5.000 vernetzten Medizingeräten.",
+    "originalUrl": "https://oeffentlichevergabe.de/ui/de/search/details?noticeId=1d705002-241e-4c2a-9236-ee1438dbd682",
+    "lotName": null,
+    "awardedTo": null,
+    "documentsUrl": "https://oeffentlichevergabe.de/ui/de/search/details?noticeId=1d705002-241e-4c2a-9236-ee1438dbd682",
+    "contractDurationMonths": null,
+    "buyerEmail": null,
+    "buyerLegalType": "anst-oer-land",
+    "buyerActivity": null,
+    "contractFolderId": null,
+    "internalId": "1d705002-241e-4c2a-9236-ee1438dbd682",
+    "procedureCode": null,
+    "accelerated": null,
+    "performanceLocation": {
+      "postalZone": "60590",
+      "city": "Frankfurt am Main"
+    },
+    "source": "oeffentlichevergabe.de"
+  },
+  {
     "publicationNumber": "OEV-af3833c3-07c7-4533-ae27-51f61cb8bb2a",
     "title": "Wartungsverlängerung bestehender SEP Symantec Endpoint Protection Lizenzen",
     "buyerName": "Robert Koch-Institut, Beschaffung",
