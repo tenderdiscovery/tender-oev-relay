@@ -1,5 +1,38 @@
 [
   {
+    "publicationNumber": "OEV-25788912",
+    "title": "Sophos Endpoint Protection, Rahmenvertrag",
+    "buyerName": "Rheinland-Pfälzische Technische Universität Kaiserslautern-Landau",
+    "country": "DEU",
+    "publicationDate": "2026-09-05",
+    "deadline": null,
+    "noticeType": "cn-standard",
+    "procedureType": null,
+    "cpvCodes": [
+      "48730000-4"
+    ],
+    "estimatedValue": null,
+    "currency": null,
+    "description": "Sophos Endpoint Protection, Rahmenvertrag",
+    "originalUrl": "https://oeffentlichevergabe.de/ui/de/search/details?noticeId=25788912",
+    "lotName": null,
+    "awardedTo": null,
+    "documentsUrl": "https://oeffentlichevergabe.de/ui/de/search/details?noticeId=25788912",
+    "contractDurationMonths": null,
+    "buyerEmail": null,
+    "buyerLegalType": null,
+    "buyerActivity": null,
+    "contractFolderId": null,
+    "internalId": "25788912",
+    "procedureCode": null,
+    "accelerated": null,
+    "performanceLocation": {
+      "postalZone": null,
+      "city": "67663 Kaiserslautern"
+    },
+    "source": "oeffentlichevergabe.de"
+  },
+  {
     "publicationNumber": "OEV-5222f95a-9888-46fb-a87a-e6ff2fc876d7",
     "title": "Bayerischer Rundfunk (BR) Funkhausareal Südteil | Munich Media Hub (MMH)",
     "buyerName": "Bayerischer Rundfunk, \nAnstalt des öffentlichen Rechts,\ngesetzlich vertreten durch die Intendantin Dr. Katja Wildermuth",
