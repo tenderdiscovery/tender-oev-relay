@@ -1,1 +1,68 @@
-[]
+[
+  {
+    "publicationNumber": "OEV-e1f935f1-1160-4db1-9bba-36f9ac018f49",
+    "title": "KI im Secure Software Development Life Cycle (KISDL)",
+    "buyerName": "Bundesamt für Sicherheit in der Informationstechnik",
+    "country": "DEU",
+    "publicationDate": "2026-09-10",
+    "deadline": null,
+    "noticeType": "cn-standard",
+    "procedureType": null,
+    "cpvCodes": [
+      "72000000"
+    ],
+    "estimatedValue": null,
+    "currency": null,
+    "description": "Methoden der Künstlichen Intelligenz (KI) zeigen in vielen Anwendungsbereichen erstaunliche Leistungen und werden zunehmend in Bereichen eingesetzt, die das tägliche Leben beeinflussen. Auch das Gebiet der Cybersicherheit ist von KI nicht unberührt geblieben. Neue KI-Tools werden in diesem Kontext beinahe täglich veröffentlicht, und vor allem Große KI-Sprachmodelle (LLMs) werden bereits heute zu diversen Anwendungszwecken eingesetzt. Zugleich verändert sich auch die Bedrohungslage stark, da gutartig intendierte Modelle missbräuchlich zu Angriffszwecken (Dual Use) verwendet werden. Infolgedessen muss mitunter angenommen werden, dass Schwachstellen mit den zunehmenden Fähigkeiten von KI zukünftig immer schneller entdeckt und ausgenutzt werden. Vor diesem Hintergrund muss auch die Verteidigungsseite aktiv werden, weswegen in diesem Projekt untersucht werden soll, wie KI im SSDLC gewinnbringend eingesetzt werden kann und welche Auswirkungen die fortschreitenden Entwicklungen auf die Sicherheit von Software haben. Dazu ist das Projekt in drei Teile gegliedert, mit zusammenhängenden, aber unterschiedlichen Leistungen:\n\nIn den AP 1-4 [HM1.1]soll eine Studie über den aktuellen Stand der Technik und der Wissenschaft im Bereich KI im Secure Software Development Life Cycle erstellt werden. Dazu sollen des Weiteren Best Practices für den Einsatz identifizierter KI-Tools erarbeitet werden. Die Ergebnisse sollen veröffentlicht werden.\nIn den AP 5-6 [HM2.1] soll der AN auf Grundlage der Studie in Zusammenarbeit mit dem BSI die Bewertungskriterien für die AVA Bepunktung in der Common Criteria Zertifizierung überprüfen und mit Blick auf die neuen Gegebenheiten aktualisieren. Zudem ist ein Umsetzungsplan für den Einsatz von KI-Tools für Prüfstellen zu erstellen.\nIm AP 7 wird für die Plattform Open CoDE eine Referenzarchitektur erstellt, die darstellt, wie KI-Tools in den Secure Software Development Life Cycle und die Softwareumgebung von Open CoDE integriert werden können. Es sind hierbei geeignete Tools vorzuschlagen.",
+    "originalUrl": "https://oeffentlichevergabe.de/ui/de/search/details?noticeId=e1f935f1-1160-4db1-9bba-36f9ac018f49",
+    "lotName": null,
+    "awardedTo": null,
+    "documentsUrl": "https://oeffentlichevergabe.de/ui/de/search/details?noticeId=e1f935f1-1160-4db1-9bba-36f9ac018f49",
+    "contractDurationMonths": null,
+    "buyerEmail": null,
+    "buyerLegalType": "omu-bbeh-niedrig",
+    "buyerActivity": null,
+    "contractFolderId": null,
+    "internalId": "e1f935f1-1160-4db1-9bba-36f9ac018f49",
+    "procedureCode": null,
+    "accelerated": null,
+    "performanceLocation": {
+      "postalZone": "53133",
+      "city": "Bonn"
+    },
+    "source": "oeffentlichevergabe.de"
+  },
+  {
+    "publicationNumber": "OEV-182ed028-4ea0-4b9a-ae37-5d7202926362",
+    "title": "Bereitstellung einer Private Cloud Infrastruktur sowie Managed Services für den IT-Betrieb",
+    "buyerName": "Studierendenwerk Niederbayern/Oberpfalz",
+    "country": "DEU",
+    "publicationDate": "2026-09-10",
+    "deadline": null,
+    "noticeType": "can-standard",
+    "procedureType": null,
+    "cpvCodes": [
+      "72250000"
+    ],
+    "estimatedValue": null,
+    "currency": null,
+    "description": "Das Studierendenwerk Niederbayern/Oberpfalz beabsichtigt seine IT-Infrastruktur in ein privates Rechenzentrum als „Private Cloud“-Lösung auszulagern. Weiterhin soll der IT-Betrieb durch Managed Services sichergestellt werden. Dies dient dem Ziel, die Systemverfügbarkeit und somit einen reibungslosen Arbeitsablauf zu gewährleisten und die Mitarbeiter der IT-Abteilung des Auftraggebers zu entlasten.",
+    "originalUrl": "https://oeffentlichevergabe.de/ui/de/search/details?noticeId=182ed028-4ea0-4b9a-ae37-5d7202926362",
+    "lotName": null,
+    "awardedTo": null,
+    "documentsUrl": "https://oeffentlichevergabe.de/ui/de/search/details?noticeId=182ed028-4ea0-4b9a-ae37-5d7202926362",
+    "contractDurationMonths": null,
+    "buyerEmail": null,
+    "buyerLegalType": "pub-undert",
+    "buyerActivity": null,
+    "contractFolderId": null,
+    "internalId": "182ed028-4ea0-4b9a-ae37-5d7202926362",
+    "procedureCode": null,
+    "accelerated": null,
+    "performanceLocation": {
+      "postalZone": "93053",
+      "city": "Regensburg"
+    },
+    "source": "oeffentlichevergabe.de"
+  }
+]
