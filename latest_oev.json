@@ -1,1 +1,147 @@
-[]
+[
+  {
+    "publicationNumber": "OEV-25812754",
+    "title": "Aufbau und die Inbetriebnahme einer Public-Cloud-basierte xWiki-Lösung",
+    "buyerName": "Deutsches Zentrum für Astrophysik gGmbH",
+    "country": "DEU",
+    "publicationDate": "2026-09-12",
+    "deadline": null,
+    "noticeType": "cn-standard",
+    "procedureType": null,
+    "cpvCodes": [
+      "50",
+      "51",
+      "55",
+      "66",
+      "70",
+      "71",
+      "75",
+      "77",
+      "79",
+      "80",
+      "85",
+      "90",
+      "92",
+      "98"
+    ],
+    "estimatedValue": null,
+    "currency": null,
+    "description": "1) Zur Angebotsabgabe auffordernde Stelle:  Offizielle Bezeichnung: Deutsches Zentrum für Astrophysik gGmbH; Bereich/Abteilung: Abteilung Beschaffung; Straße, Hausnummer: Postplatz 1; Postleitzahl: 02826; Ort: Görlitz; Land: DE; Telefon: +49 1736954797; Internet-Adresse: www.deutscheszentrumastrophysik.de; E-Mail: beschaffung@dzastro.de\nDen Zuschlag erteilende Stelle: s.o.\nStelle, bei der die Angebote oder Teilnahmeanträge einzureichen sind: s.o.\n2) Verfahrensart: Öffentliche Ausschreibung, Vergabenummer: 26-0381-UVgO-002-26\n3) Form, in der Teilnahmeanträge oder Angebote einzureichen sind: Angebote können nur elektronisch abgegeben werden.\n4) Ggf. in den Fällen des § 29 (3) die Maßnahmen zum Schutz der Vertraulichkeit und die Informationen zum Zugriff auf die Vergabeunterlagen: nicht angegeben\n5) Art und Umfang der Leistung: Aufbau und Inbetriebnahme Public-Cloud-basierte xWiki-Lösung (Content-Management-System) für den Zeitraum von mindestens drei Jahren mit der Option auf ein Jahr Verlängerung.\nOrt(e) der Leistungserbringung: Offizielle Bezeichnung: Deutsches Zentrum für Astrophysik gGmbH; Straße, Hausnummer: Postplatz 1; Postleitzahl: 02826; Ort: Görlitz; Land: DE\n6) Ggf. Anzahl, Größe und Art der einzelnen Lose: entfällt, da keine losweise Vergabe\n7) Nebenangebote sind nicht zugelassen.\n8) Etwaige Bestimmungen über die Ausführungsfrist: Ende: 31.12.2026, Die Umsetzung der ausgeschriebene Leistung müssen innerhalb einer Frist von maximal vier Kalenderwochen nach Beauftragung beginnen. Alle Arbeiten sollten innerhalb von maximal vier Kalenderwochen umgesetzt werden. \n9)  Die Vergabeunterlagen werden auf der Vergabeplattform evergabe.de bereitgestellt. Ein unentgeltlicher Abruf ohne Registrierung ist möglich unter https://www.evergabe.de/unterlagen/3451129/zustellweg-auswaehlen.\n10) Angebotsfrist: 28.09.2026, 11:00 Uhr; Bindefrist: 18.10.2026\n11) Höhe etwa geforderter Sicherheitsleistungen: entfällt\n12) Wesentliche Zahlungsbedingungen oder Angabe der Unterlagen, in denen sie enthalten sind: Zahlungsbedingungen usw. sind in den beigefügten Dokumenten &quot;3-26-0381_Wiki-Lösung_Anlage_2_bes-Vertragsbedg_xWiki_f.pdf&quot; und &quot;6-26-0381_Wiki-Lösung_EVB_IT_Cloudvertrag_f.pdf&quot; geregelt.\n13) Mit dem Angebot oder dem Teilnahmeantrag vorzulegenden Unterlagen, die der Auftraggeber für die Beurteilung der Eignung des Bewerbers oder Bieters und des Nichtvorliegens von Ausschlussgründen verlangt: Den Vergabedokumenten liegen die Angebotsunterlagen bei, welche zwingend auszufüllen und zu verwenden sind. Darin Eignung, Ausschlussgründe und weitere Vorbedingungen enthalten.\n* Confluence-Migrationskonzept (Anlage 5)\n* Erklärung der Bietergemeinschaft (sofern zutreffend)\n* Eigenerklärung zum Nichtvorliegen von Ausschlussgründen (§§ 123, 124 GWB) [PL1]\n* Eigenerklärung zum Unternehmen [PL2]\n* Eigenerklärung über den jährlichen Gesamtumsatz des Bieters [WL1]\n* Eigenerklärung zur Betriebshaftpflichtversicherung [WL3]\n* Referenzen über die in den letzten drei Jahren erbrachten vergleichbaren Leistungen [TL2]\n* Angabe von Nachunternehmerleistungen (sofern zutreffend)\n* Verpflichtungserklärung anderer Unternehmen für den Fall der Eignungsleihe (sofern zutreffend)\n* Eigenerklärung zur Einhaltung des Mindestlohns\n* Eigenerklärung Eigenerklärung zur Umsetzung von Artikel 5k Absatz 1 der Verordnung (EU) Nr. 833/2014\n* Eigenerklärung zum Projektstart und Projektlaufzeit\n* Eigenerklärung DSGVO-Konformität\n* Eigenerklärung der ISO27001-Konformität\n* Eigenerklärung Datensouveränität\n14) Angabe der Zuschlagskriterien, sofern diese nicht in den Vergabeunterlagen genannt werden: entfällt, siehe Vergabeunterlagen\n\nSoftware,Programmierdienste,IT-Systemdienstleistungen,Beratung/ Gutachten/ Studie (IT)",
+    "originalUrl": "https://oeffentlichevergabe.de/ui/de/search/details?noticeId=25812754",
+    "lotName": null,
+    "awardedTo": null,
+    "documentsUrl": "https://oeffentlichevergabe.de/ui/de/search/details?noticeId=25812754",
+    "contractDurationMonths": null,
+    "buyerEmail": null,
+    "buyerLegalType": null,
+    "buyerActivity": null,
+    "contractFolderId": null,
+    "internalId": "25812754",
+    "procedureCode": null,
+    "accelerated": null,
+    "performanceLocation": {
+      "postalZone": null,
+      "city": "02826 Görlitz"
+    },
+    "source": "oeffentlichevergabe.de"
+  },
+  {
+    "publicationNumber": "OEV-976c8ed3-7fda-43e8-8925-b60939f74278",
+    "title": "Elektrische, sicherheitstechnische und informationstechnische Anlagen  - Neubau Physik, Geb. 3335, Hans-Sommer-Straße 10, 38106 Braunschweig",
+    "buyerName": "Technische Universität Braunschweig, Geschäftsbereich 3 - Gebäudemanagement",
+    "country": "DEU",
+    "publicationDate": "2026-09-11",
+    "deadline": null,
+    "noticeType": "cn-standard",
+    "procedureType": null,
+    "cpvCodes": [
+      "45315100"
+    ],
+    "estimatedValue": null,
+    "currency": null,
+    "description": "An der Hans-Sommer-Straße wird der Neubau für Institute der Physik mit einer Nutzfläche (NUF 1-6) von ca. 4800 m² errichtet. In dem viergeschossigem Gebäude ist die Hälfte der Fläche für Labore, Mess- und Wägeräume vorgesehen, die sich im nördlichen Gebäudeteil befinden. Weitere Nutzflächen sind Büroflächen sowie Seminarräume und Hörsäle. Ein Foyer, das die Geschossebenen über einen Luftraum miteinander verbindet, dient als Haupterschließung. Im Erdgeschoss erweitern studentische Arbeitsplätze das Foyer und ermöglichen einen Zugang zum begrünten Innenhof. Die Technikzentrale erstreckt sich als fünftes Geschoss über die Hälfe der Gebäudefläche.",
+    "originalUrl": "https://oeffentlichevergabe.de/ui/de/search/details?noticeId=976c8ed3-7fda-43e8-8925-b60939f74278",
+    "lotName": null,
+    "awardedTo": null,
+    "documentsUrl": "https://oeffentlichevergabe.de/ui/de/search/details?noticeId=976c8ed3-7fda-43e8-8925-b60939f74278",
+    "contractDurationMonths": null,
+    "buyerEmail": null,
+    "buyerLegalType": "koerp-oer-land",
+    "buyerActivity": null,
+    "contractFolderId": null,
+    "internalId": "976c8ed3-7fda-43e8-8925-b60939f74278",
+    "procedureCode": null,
+    "accelerated": null,
+    "performanceLocation": {
+      "postalZone": "38106",
+      "city": "Braunschweig"
+    },
+    "source": "oeffentlichevergabe.de"
+  },
+  {
+    "publicationNumber": "OEV-e1f935f1-1160-4db1-9bba-36f9ac018f49",
+    "title": "KI im Secure Software Development Life Cycle (KISDL)",
+    "buyerName": "Bundesamt für Sicherheit in der Informationstechnik",
+    "country": "DEU",
+    "publicationDate": "2026-09-10",
+    "deadline": null,
+    "noticeType": "cn-standard",
+    "procedureType": null,
+    "cpvCodes": [
+      "72000000"
+    ],
+    "estimatedValue": null,
+    "currency": null,
+    "description": "Methoden der Künstlichen Intelligenz (KI) zeigen in vielen Anwendungsbereichen erstaunliche Leistungen und werden zunehmend in Bereichen eingesetzt, die das tägliche Leben beeinflussen. Auch das Gebiet der Cybersicherheit ist von KI nicht unberührt geblieben. Neue KI-Tools werden in diesem Kontext beinahe täglich veröffentlicht, und vor allem Große KI-Sprachmodelle (LLMs) werden bereits heute zu diversen Anwendungszwecken eingesetzt. Zugleich verändert sich auch die Bedrohungslage stark, da gutartig intendierte Modelle missbräuchlich zu Angriffszwecken (Dual Use) verwendet werden. Infolgedessen muss mitunter angenommen werden, dass Schwachstellen mit den zunehmenden Fähigkeiten von KI zukünftig immer schneller entdeckt und ausgenutzt werden. Vor diesem Hintergrund muss auch die Verteidigungsseite aktiv werden, weswegen in diesem Projekt untersucht werden soll, wie KI im SSDLC gewinnbringend eingesetzt werden kann und welche Auswirkungen die fortschreitenden Entwicklungen auf die Sicherheit von Software haben. Dazu ist das Projekt in drei Teile gegliedert, mit zusammenhängenden, aber unterschiedlichen Leistungen:\n\nIn den AP 1-4 [HM1.1]soll eine Studie über den aktuellen Stand der Technik und der Wissenschaft im Bereich KI im Secure Software Development Life Cycle erstellt werden. Dazu sollen des Weiteren Best Practices für den Einsatz identifizierter KI-Tools erarbeitet werden. Die Ergebnisse sollen veröffentlicht werden.\nIn den AP 5-6 [HM2.1] soll der AN auf Grundlage der Studie in Zusammenarbeit mit dem BSI die Bewertungskriterien für die AVA Bepunktung in der Common Criteria Zertifizierung überprüfen und mit Blick auf die neuen Gegebenheiten aktualisieren. Zudem ist ein Umsetzungsplan für den Einsatz von KI-Tools für Prüfstellen zu erstellen.\nIm AP 7 wird für die Plattform Open CoDE eine Referenzarchitektur erstellt, die darstellt, wie KI-Tools in den Secure Software Development Life Cycle und die Softwareumgebung von Open CoDE integriert werden können. Es sind hierbei geeignete Tools vorzuschlagen.",
+    "originalUrl": "https://oeffentlichevergabe.de/ui/de/search/details?noticeId=e1f935f1-1160-4db1-9bba-36f9ac018f49",
+    "lotName": null,
+    "awardedTo": null,
+    "documentsUrl": "https://oeffentlichevergabe.de/ui/de/search/details?noticeId=e1f935f1-1160-4db1-9bba-36f9ac018f49",
+    "contractDurationMonths": null,
+    "buyerEmail": null,
+    "buyerLegalType": "omu-bbeh-niedrig",
+    "buyerActivity": null,
+    "contractFolderId": null,
+    "internalId": "e1f935f1-1160-4db1-9bba-36f9ac018f49",
+    "procedureCode": null,
+    "accelerated": null,
+    "performanceLocation": {
+      "postalZone": "53133",
+      "city": "Bonn"
+    },
+    "source": "oeffentlichevergabe.de"
+  },
+  {
+    "publicationNumber": "OEV-182ed028-4ea0-4b9a-ae37-5d7202926362",
+    "title": "Bereitstellung einer Private Cloud Infrastruktur sowie Managed Services für den IT-Betrieb",
+    "buyerName": "Studierendenwerk Niederbayern/Oberpfalz",
+    "country": "DEU",
+    "publicationDate": "2026-09-10",
+    "deadline": null,
+    "noticeType": "can-standard",
+    "procedureType": null,
+    "cpvCodes": [
+      "72250000"
+    ],
+    "estimatedValue": null,
+    "currency": null,
+    "description": "Das Studierendenwerk Niederbayern/Oberpfalz beabsichtigt seine IT-Infrastruktur in ein privates Rechenzentrum als „Private Cloud“-Lösung auszulagern. Weiterhin soll der IT-Betrieb durch Managed Services sichergestellt werden. Dies dient dem Ziel, die Systemverfügbarkeit und somit einen reibungslosen Arbeitsablauf zu gewährleisten und die Mitarbeiter der IT-Abteilung des Auftraggebers zu entlasten.",
+    "originalUrl": "https://oeffentlichevergabe.de/ui/de/search/details?noticeId=182ed028-4ea0-4b9a-ae37-5d7202926362",
+    "lotName": null,
+    "awardedTo": null,
+    "documentsUrl": "https://oeffentlichevergabe.de/ui/de/search/details?noticeId=182ed028-4ea0-4b9a-ae37-5d7202926362",
+    "contractDurationMonths": null,
+    "buyerEmail": null,
+    "buyerLegalType": "pub-undert",
+    "buyerActivity": null,
+    "contractFolderId": null,
+    "internalId": "182ed028-4ea0-4b9a-ae37-5d7202926362",
+    "procedureCode": null,
+    "accelerated": null,
+    "performanceLocation": {
+      "postalZone": "93053",
+      "city": "Regensburg"
+    },
+    "source": "oeffentlichevergabe.de"
+  }
+]
