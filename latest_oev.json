@@ -1,34 +1,75 @@
 [
   {
-    "publicationNumber": "OEV-15b0aaa3-ca3f-4b6d-920c-fb0ff474a39a",
-    "title": "Rahmenvereinbarung Unterstützung im Themenbereich IT-Security",
-    "buyerName": "Investitionsbank Schleswig-Holstein",
+    "publicationNumber": "OEV-7a855c7f-8d65-411f-9126-6dcb4aec744d",
+    "title": "Modernisierung des zentralen Firewall-Systems im Forschungsverbund Berlin e.V.",
+    "buyerName": "Forschungsverbund Berlin e.V.",
     "country": "DEU",
-    "publicationDate": "2026-09-13",
+    "publicationDate": "2026-09-16",
     "deadline": null,
     "noticeType": "cn-standard",
     "procedureType": null,
     "cpvCodes": [
-      "72000000"
+      "32422000",
+      "32424000",
+      "48730000",
+      "48732000"
     ],
     "estimatedValue": null,
     "currency": null,
-    "description": "Die Investitionsbank Schleswig-Holstein (IB.SH) das zentrale Förderinstitut des Landes mit derzeit knapp 900 Mitarbeitern und Mitarbeiterinnen sucht drei Rahmenvertragspartner als IT-Dienstleister für die Erbringung von IT-Unterstützungsleistungen im Bereich der IT-Security.\n---------------------------------------------------------------------------------------------------------------------------------------------------------------\nEs ist der Abschluss, der in den Unterlagen als Anlage 1 beigefügten Rahmenvereinbarung, der Vereinbarung zur Auftragsverarbeitung mit den drei Bietern, die die Mindestkriterien erfüllen und Plätze 1-3 belegen, beabsichtigt.\n---------------------------------------------------------------------------------------------------------------------------------------------------------------\nDie von der IB.SH konkret benötigten Unterstützungsleistungen werden unter Berücksichtigung der\nArbeits- und Projektsituation, Qualifikation, Verfügbarkeit im Rahmen von Mini-\nWettbewerben abgerufen. Die Gestaltung dieser Einzelabrufe ist in der Anlage 3 Rahmenvereinbarung geregelt (s. § 2 der Rahmenvereinbarung).\n---------------------------------------------------------------------------------------------------------------------------------------------------------------",
-    "originalUrl": "https://oeffentlichevergabe.de/ui/de/search/details?noticeId=15b0aaa3-ca3f-4b6d-920c-fb0ff474a39a",
+    "description": "Modernisierung des zentralen Firewall-Systems im Forschungsverbund\nBerlin e.V.",
+    "originalUrl": "https://oeffentlichevergabe.de/ui/de/search/details?noticeId=7a855c7f-8d65-411f-9126-6dcb4aec744d",
     "lotName": null,
     "awardedTo": null,
-    "documentsUrl": "https://oeffentlichevergabe.de/ui/de/search/details?noticeId=15b0aaa3-ca3f-4b6d-920c-fb0ff474a39a",
+    "documentsUrl": "https://oeffentlichevergabe.de/ui/de/search/details?noticeId=7a855c7f-8d65-411f-9126-6dcb4aec744d",
     "contractDurationMonths": null,
     "buyerEmail": null,
-    "buyerLegalType": "anst-oer-land",
+    "buyerLegalType": "org-sub",
     "buyerActivity": null,
     "contractFolderId": null,
-    "internalId": "15b0aaa3-ca3f-4b6d-920c-fb0ff474a39a",
+    "internalId": "7a855c7f-8d65-411f-9126-6dcb4aec744d",
     "procedureCode": null,
     "accelerated": null,
     "performanceLocation": {
-      "postalZone": "24143",
-      "city": "Kiel"
+      "postalZone": "12489",
+      "city": "Berlin"
+    },
+    "source": "oeffentlichevergabe.de"
+  },
+  {
+    "publicationNumber": "OEV-04867f6b-9686-4e52-a263-3c1b27c0f00a",
+    "title": "Extended Detection & Response (XDR) – Lösung",
+    "buyerName": "Klinikum Esslingen GmbH",
+    "country": "DEU",
+    "publicationDate": "2026-09-16",
+    "deadline": null,
+    "noticeType": "cn-standard",
+    "procedureType": null,
+    "cpvCodes": [
+      "30200000",
+      "30211300",
+      "48730000",
+      "48820000",
+      "72261000",
+      "72267000"
+    ],
+    "estimatedValue": null,
+    "currency": null,
+    "description": "Gegenstand der Vergabe ist die Beschaffung und Implementierung einer Extended Detection & Response (XDR)‑Lösung, mit dem Ziel, die IT‑Sicherheit durch moderne Erkennungs‑ und Reaktionsmechanismen signifikant zu erhöhen und insbesondere fortschrittliche Bedrohungen frühzeitig zu identifizieren sowie effektiv zu behandeln.",
+    "originalUrl": "https://oeffentlichevergabe.de/ui/de/search/details?noticeId=04867f6b-9686-4e52-a263-3c1b27c0f00a",
+    "lotName": null,
+    "awardedTo": null,
+    "documentsUrl": "https://oeffentlichevergabe.de/ui/de/search/details?noticeId=04867f6b-9686-4e52-a263-3c1b27c0f00a",
+    "contractDurationMonths": null,
+    "buyerEmail": null,
+    "buyerLegalType": "pub-undert",
+    "buyerActivity": null,
+    "contractFolderId": null,
+    "internalId": "04867f6b-9686-4e52-a263-3c1b27c0f00a",
+    "procedureCode": null,
+    "accelerated": null,
+    "performanceLocation": {
+      "postalZone": "73730",
+      "city": "Esslingen"
     },
     "source": "oeffentlichevergabe.de"
   }
