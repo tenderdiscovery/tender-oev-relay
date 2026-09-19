@@ -1,5 +1,38 @@
 [
   {
+    "publicationNumber": "OEV-6542ddb4-59b0-4a63-9767-6ae8258c5502",
+    "title": "EU-weite Ausschreibung einer Software-Lösung für Security Awareness und Phishing-Simulation",
+    "buyerName": "ITEBO GmbH",
+    "country": "DEU",
+    "publicationDate": "2026-09-18",
+    "deadline": null,
+    "noticeType": "cn-standard",
+    "procedureType": null,
+    "cpvCodes": [
+      "48000000"
+    ],
+    "estimatedValue": null,
+    "currency": null,
+    "description": "Die ITEBO GmbH beabsichtigt die Ausschreibung und Vergabe einer webbasierten Software-Lösung für Security Awareness und Phishing-Simulation. \nAufgrund immer intelligenterer Cyber-Angriffe steigt der Bedarf an einem praxisnahen und dauerhaften Training der Beschäftigten in Verwaltungen. Aus diesem Grund schreibt die ITEBO GmbH die Bereitstellung einer solchen Lösung als SaaS-Modell für die Gesellschafter der ITEBO GmbH aus.\nNeben der Bereitstellung der Software wird ein Deutschsprachiger Support während der Gesamten Laufzeit von 48 Monaten abgefragt.",
+    "originalUrl": "https://oeffentlichevergabe.de/ui/de/search/details?noticeId=6542ddb4-59b0-4a63-9767-6ae8258c5502",
+    "lotName": null,
+    "awardedTo": null,
+    "documentsUrl": "https://oeffentlichevergabe.de/ui/de/search/details?noticeId=6542ddb4-59b0-4a63-9767-6ae8258c5502",
+    "contractDurationMonths": null,
+    "buyerEmail": null,
+    "buyerLegalType": "pub-undert",
+    "buyerActivity": null,
+    "contractFolderId": null,
+    "internalId": "6542ddb4-59b0-4a63-9767-6ae8258c5502",
+    "procedureCode": null,
+    "accelerated": null,
+    "performanceLocation": {
+      "postalZone": "49074",
+      "city": "Osnabrück"
+    },
+    "source": "oeffentlichevergabe.de"
+  },
+  {
     "publicationNumber": "OEV-7a855c7f-8d65-411f-9126-6dcb4aec744d",
     "title": "Modernisierung des zentralen Firewall-Systems im Forschungsverbund Berlin e.V.",
     "buyerName": "Forschungsverbund Berlin e.V.",
