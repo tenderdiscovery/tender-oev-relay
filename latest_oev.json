@@ -1,1 +1,36 @@
-[]
+[
+  {
+    "publicationNumber": "OEV-2c0ed813-8401-40e1-ba71-75a0bfcfc10c",
+    "title": "Lieferung von Thin-Client-PCs mit vorinstalliertem IGEL OS 12",
+    "buyerName": "Gesundheit Nord gGmbH",
+    "country": "DEU",
+    "publicationDate": "2026-09-22",
+    "deadline": null,
+    "noticeType": "cn-standard",
+    "procedureType": null,
+    "cpvCodes": [
+      "30213000",
+      "30213300"
+    ],
+    "estimatedValue": null,
+    "currency": null,
+    "description": "Die GeNo beabsichtigt den Ersatz der vorhandenen Thin-Client-PCs durch Geräte, die die Anforderungen für den Einsatz von IGEL OS 12 erfüllen.  Stückzahl: 2.100 Geräte.  Zielgruppe: Medizinische Fachkräfte, IT-Personal, allgemeine Benutzer.",
+    "originalUrl": "https://oeffentlichevergabe.de/ui/de/search/details?noticeId=2c0ed813-8401-40e1-ba71-75a0bfcfc10c",
+    "lotName": null,
+    "awardedTo": null,
+    "documentsUrl": "https://oeffentlichevergabe.de/ui/de/search/details?noticeId=2c0ed813-8401-40e1-ba71-75a0bfcfc10c",
+    "contractDurationMonths": null,
+    "buyerEmail": null,
+    "buyerLegalType": "pub-undert",
+    "buyerActivity": null,
+    "contractFolderId": null,
+    "internalId": "2c0ed813-8401-40e1-ba71-75a0bfcfc10c",
+    "procedureCode": null,
+    "accelerated": null,
+    "performanceLocation": {
+      "postalZone": "28197",
+      "city": "Bremen"
+    },
+    "source": "oeffentlichevergabe.de"
+  }
+]
