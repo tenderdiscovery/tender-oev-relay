@@ -1,5 +1,72 @@
 [
   {
+    "publicationNumber": "OEV-675fa09d-5152-46c5-9967-ed104d16276b",
+    "title": "Rahmenvereinbarung Unterstützung im Themenbereich IT-Security",
+    "buyerName": "Investitionsbank Schleswig-Holstein",
+    "country": "DEU",
+    "publicationDate": "2026-09-27",
+    "deadline": null,
+    "noticeType": "cn-standard",
+    "procedureType": null,
+    "cpvCodes": [
+      "72000000"
+    ],
+    "estimatedValue": null,
+    "currency": null,
+    "description": "Die Investitionsbank Schleswig-Holstein (IB.SH) das zentrale Förderinstitut des Landes mit derzeit knapp 900 Mitarbeitern und Mitarbeiterinnen sucht drei Rahmenvertragspartner als IT-Dienstleister für die Erbringung von IT-Unterstützungsleistungen im Bereich der IT-Security.\n---------------------------------------------------------------------------------------------------------------------------------------------------------------\nEs ist der Abschluss, der in den Unterlagen als Anlage 1 beigefügten Rahmenvereinbarung, der Vereinbarung zur Auftragsverarbeitung mit den drei Bietern, die die Mindestkriterien erfüllen und Plätze 1-3 belegen, beabsichtigt.\n---------------------------------------------------------------------------------------------------------------------------------------------------------------\nDie von der IB.SH konkret benötigten Unterstützungsleistungen werden unter Berücksichtigung der\nArbeits- und Projektsituation, Qualifikation, Verfügbarkeit im Rahmen von Mini-\nWettbewerben abgerufen. Die Gestaltung dieser Einzelabrufe ist in der Anlage 3 Rahmenvereinbarung geregelt (s. § 2 der Rahmenvereinbarung).\n---------------------------------------------------------------------------------------------------------------------------------------------------------------",
+    "originalUrl": "https://oeffentlichevergabe.de/ui/de/search/details?noticeId=675fa09d-5152-46c5-9967-ed104d16276b",
+    "lotName": null,
+    "awardedTo": null,
+    "documentsUrl": "https://oeffentlichevergabe.de/ui/de/search/details?noticeId=675fa09d-5152-46c5-9967-ed104d16276b",
+    "contractDurationMonths": null,
+    "buyerEmail": null,
+    "buyerLegalType": "anst-oer-land",
+    "buyerActivity": null,
+    "contractFolderId": null,
+    "internalId": "675fa09d-5152-46c5-9967-ed104d16276b",
+    "procedureCode": null,
+    "accelerated": null,
+    "performanceLocation": {
+      "postalZone": "24143",
+      "city": "Kiel"
+    },
+    "source": "oeffentlichevergabe.de"
+  },
+  {
+    "publicationNumber": "OEV-3077096b-3595-4922-97ca-da04c29c0b19",
+    "title": "Open-House-Zulassungsverfahren zur Zulassung von Distributoren für das openDesk-Ökosystem",
+    "buyerName": "Zentrum für Digitale Souveränität der Öffentlichen Verwaltung (ZenDiS) GmbH",
+    "country": "DEU",
+    "publicationDate": "2026-09-27",
+    "deadline": null,
+    "noticeType": "cn-standard",
+    "procedureType": null,
+    "cpvCodes": [
+      "72260000",
+      "72268000"
+    ],
+    "estimatedValue": null,
+    "currency": null,
+    "description": "Die Zentrum für Digitale Souveränität der Öffentlichen Verwaltung (ZenDiS) GmbH führt ein offenes Zulassungssystem in Form eines Open-House-Verfahrens zur Zulassung von Distributoren für das openDesk-Ökosystem durch.  Zugelassene Distributoren fungieren als Bindeglied zwischen dem von ZenDiS zusammengestellten openDesk-Portfolio und dem Endkundenvertriebsnetz. Sie stellen auf Grundlage der von ZenDiS vorgegebenen Paketkonfigurationen Softwarekomponenten zu Bundles und zeitlich begrenzten Subskriptionen zusammen, bauen ein Netz von IT-Partnern auf und vertreiben die Angebote über dieses Partnernetz.  Das Verfahren ist kein Vergabeverfahren im Sinne des GWB, der VgV oder der VOB/A. Es erfolgt keine vergleichende Auswahl, Wertung oder Reihung der Antragsteller. Jeder Antragsteller, der sämtliche bekannt gemachten Zulassungsvoraussetzungen erfüllt, wird zu einheitlichen und nicht verhandelbaren Bedingungen zugelassen. Die Anzahl der Zulassungen ist nicht begrenzt.",
+    "originalUrl": "https://oeffentlichevergabe.de/ui/de/search/details?noticeId=3077096b-3595-4922-97ca-da04c29c0b19",
+    "lotName": null,
+    "awardedTo": null,
+    "documentsUrl": "https://oeffentlichevergabe.de/ui/de/search/details?noticeId=3077096b-3595-4922-97ca-da04c29c0b19",
+    "contractDurationMonths": null,
+    "buyerEmail": null,
+    "buyerLegalType": "pub-undert-cga",
+    "buyerActivity": null,
+    "contractFolderId": null,
+    "internalId": "3077096b-3595-4922-97ca-da04c29c0b19",
+    "procedureCode": null,
+    "accelerated": null,
+    "performanceLocation": {
+      "postalZone": "44803",
+      "city": "Bochum"
+    },
+    "source": "oeffentlichevergabe.de"
+  },
+  {
     "publicationNumber": "OEV-9d460e8d-29b2-4b33-9da4-601b1e41a85a",
     "title": "Datenplattform",
     "buyerName": "Technische Universität München",
@@ -32,137 +99,6 @@
     "performanceLocation": {
       "postalZone": "80333",
       "city": "München"
-    },
-    "source": "oeffentlichevergabe.de"
-  },
-  {
-    "publicationNumber": "OEV-6b766f21-ba6f-48b5-9672-4f0865798ede",
-    "title": "Digitalprojekt Jahrtausendturm \"to go\"\nProgressive Web-App / Web-App und Content-Management-System",
-    "buyerName": "Natur- und Kulturpark Elbaue GmbH c/o MVGM GmbH",
-    "country": "DEU",
-    "publicationDate": "2026-09-24",
-    "deadline": null,
-    "noticeType": "cn-standard",
-    "procedureType": null,
-    "cpvCodes": [
-      "63121000"
-    ],
-    "estimatedValue": null,
-    "currency": null,
-    "description": "Die Natur- und Kulturpark Elbaue GmbH beabsichtigt, im Rahmen eines öffentlichen Vergabeverfahrens die Entwicklung, Implementierung, Inbetriebnahme sowie den mehrjährigen Betrieb einer digitalen Museums-App für den Jahrtausendturm im Elbauenpark Magdeburg zu vergeben. Grundlage des Vorhabens ist die Zielsetzung, die Besucherinnen und Besucher des Jahrtausendturms entlang der gesamten Visitor Journey digital zu begleiten – vor, während und nach dem Besuch – und zugleich den Zugang zu den Inhalten der Ausstellung für unterschiedliche Zielgruppen zu erweitern.\nDer Jahrtausendturm befindet sich im Elbauenpark Magdeburg, Tessenowstraße 5a, 39114 Magdeburg. Die Ausstellung erstreckt sich über sechs Ebenen mit rund 8.030 m² Ausstellungsfläche und behandelt rund 6.000 Jahre Menschheits- und Technikgeschichte. Derzeit umfasst die Ausstellung 251 Texttafeln, 120 textile Darstellungen sowie 158 Exponate, von denen 61 interaktiv sind; WLAN steht im Gebäude flächendeckend zur Verfügung.\nGegenstand der Vergabe ist die Entwicklung einer Progressive Web-App (PWA) einschließlich eines Content-Management-Systems (CMS) zur redaktionellen und technischen Verwaltung sämtlicher Inhalte. Die Anwendung soll auf den Endgeräten der Besucherinnen und Besucher ohne Installation nutzbar sein, sowohl auf Android- als auch auf iOS-Geräten funktionieren und responsive auf vollständig HTML5-Standard unterstützenden Browsern und mindestens auf Betriebssystemen wie Microsoft Windows, Apple macOS und Linux laufen.\nDie App soll sowohl Funktionen für die Nutzung außerhalb des Museums als auch für die Nutzung innerhalb des Museums (unterschiedlich) bereitstellen. Dazu zählen insbesondere 360-Grad-Panoramen, Serviceinformationen, mehrsprachige Inhalte, Touren und Rundgänge, Audio-, Video-, Text- und Bildinhalte, QR-Code-basierte Exponataufrufe, Wissensrallyes, Social-Sharing-Funktionen, Feedbackmöglichkeiten, leichte Sprache sowie Screenreader-Unterstützung.\nDas Projekt verfolgt einen ganzheitlichen Vermittlungsansatz. Neben der Informationsvermittlung vor Ort soll die App auch Schließzeiten überbrücken, digitale Zugänge für Schulklassen, Familien, Fachpublikum und mobilitätseingeschränkte Personen schaffen sowie Interaktion, Partizipation und Nachbereitung des Besuchs ermöglichen. Eine, der beispielsweise zielgruppenspezifische, Funktion soll es Pädagogen ermöglichen, bereits vor dem Museumsbesuch eine individuelle Rallye für ihre Schulklasse zusammenzustellen. Über einen eigens generierten Code kann die Rallye anschließend jedem Schüler zur Verfügung gestellt werden. Nach dem Museumsbesuch können die Ergebnisse der einzelnen Schüler individuell ausgewertet werden.\nEin besonderer Fokus liegt auf Nachhaltigkeit, langfristiger Betriebsfähigkeit und Datenhoheit. Zudem sind DSGVO-Konformität, digitale Barrierefreiheit, Änderbarkeit der Software während der Wartungsphase, nachvollziehbare technische Dokumentation sowie eine Absicherung der Weiterentwicklung im Störungs- oder Ausfallfall des Auftragnehmers sicherzustellen.\nDas Briefing ist nach der vorliegenden Leistungsbeschreibung voraussichtlich für Dezember 2026 vorgesehen. Die Fertigstellung soll bis Mitte 2027 erfolgen.",
-    "originalUrl": "https://oeffentlichevergabe.de/ui/de/search/details?noticeId=6b766f21-ba6f-48b5-9672-4f0865798ede",
-    "lotName": null,
-    "awardedTo": null,
-    "documentsUrl": "https://oeffentlichevergabe.de/ui/de/search/details?noticeId=6b766f21-ba6f-48b5-9672-4f0865798ede",
-    "contractDurationMonths": null,
-    "buyerEmail": null,
-    "buyerLegalType": "pub-undert-ra",
-    "buyerActivity": null,
-    "contractFolderId": null,
-    "internalId": "6b766f21-ba6f-48b5-9672-4f0865798ede",
-    "procedureCode": null,
-    "accelerated": null,
-    "performanceLocation": {
-      "postalZone": "39114",
-      "city": "Magdeburg"
-    },
-    "source": "oeffentlichevergabe.de"
-  },
-  {
-    "publicationNumber": "OEV-2645c478-5511-4781-afa1-5204fa0055b8",
-    "title": "Verlängerung der IGEL OS Lizenzen",
-    "buyerName": "Vitos gemeinnützige GmbH",
-    "country": "DEU",
-    "publicationDate": "2026-09-24",
-    "deadline": null,
-    "noticeType": "can-standard",
-    "procedureType": null,
-    "cpvCodes": [
-      "48000000",
-      "48620000"
-    ],
-    "estimatedValue": null,
-    "currency": null,
-    "description": "Gegenstand des vorliegenden Vergabeverfahrens ist zum einen die Verlängerung der bestehenden 2.050 Stk. IGEL-Standard (Select) 3 year Renewal (500 to 4999) Lizenzen inklusive der Konsolidierung der Lizenz Laufzeiten auf das einheitliche Ablaufdatum 10.12.2029 und zum anderen 500 Stk. zusätzliche IGEL-Standard Select Lizenzen. Die zusätzlichen 500 Stk. IGEL-Lizenzen mit einer Laufzeit von 3 Jahren ab Kauf sind verbindlich als Option anzubieten.\n\nAlle 2.050 Lizenzverlängerungen müssen nach Verlängerung das neue Ablaufdatum 10.12.2029 haben. Die 500 Stk. zusätzlichen Lizenzen sollen eine Laufzeit von 3 Jahren haben. Die Laufzeit beginnt mit Überlassung und endet nach 3 Jahren.\n\nVertragsbeginn ist ab Zuschlagserteilung. Der Auftraggeber verpflichtet sich, die 2.050 im LV genannten Lizenzverlängerungen innerhalb von 30 Tagen nach Zuschlagserteilung zu beauftragen. Der Abruf der darüber hinaus im Leistungsverzeichnis angebotenen 500 Lizenzen ist für den Auftraggeber innerhalb der Vertragslaufzeit optional. Der Vertrag endet mit Ablauf der beschafften Lizenzen am 10.12.2029.\n\nDie Vitos gGmbH schreibt den Auftrag als Öffentliche Auftraggeberin gemäß § 15 der Verordnung über die Vergabe öffentlicher Aufträge (Vergabeverordnung - VgV) im Wege eines Offenen Verfahrens aus.",
-    "originalUrl": "https://oeffentlichevergabe.de/ui/de/search/details?noticeId=2645c478-5511-4781-afa1-5204fa0055b8",
-    "lotName": null,
-    "awardedTo": null,
-    "documentsUrl": "https://oeffentlichevergabe.de/ui/de/search/details?noticeId=2645c478-5511-4781-afa1-5204fa0055b8",
-    "contractDurationMonths": null,
-    "buyerEmail": null,
-    "buyerLegalType": "pub-undert",
-    "buyerActivity": null,
-    "contractFolderId": null,
-    "internalId": "2645c478-5511-4781-afa1-5204fa0055b8",
-    "procedureCode": null,
-    "accelerated": null,
-    "performanceLocation": {
-      "postalZone": "34117",
-      "city": "Kassel"
-    },
-    "source": "oeffentlichevergabe.de"
-  },
-  {
-    "publicationNumber": "OEV-022f220c-7027-4149-bb74-320d556ba9f9",
-    "title": "(vergA) Rahmenvertrag Callcenter-Leistungen",
-    "buyerName": "Bundesdruckerei GmbH",
-    "country": "DEU",
-    "publicationDate": "2026-09-24",
-    "deadline": null,
-    "noticeType": "can-standard",
-    "procedureType": null,
-    "cpvCodes": [
-      "79512000"
-    ],
-    "estimatedValue": null,
-    "currency": null,
-    "description": "Gegenstand der ausgeschriebenen Leistung ist der Abschluss eines Rahmenvertrages über Callcenter-Leistungen, um das hausinterne Customer-Service-Center der Bundesdruckerei durch externe Anbieter zu unterstützen.   Nähere Einzelheiten zum Leistungsgegenstand können der den Vergabeunterlagen beigefügten Leistungsbeschreibung entnommen werden.",
-    "originalUrl": "https://oeffentlichevergabe.de/ui/de/search/details?noticeId=022f220c-7027-4149-bb74-320d556ba9f9",
-    "lotName": null,
-    "awardedTo": null,
-    "documentsUrl": "https://oeffentlichevergabe.de/ui/de/search/details?noticeId=022f220c-7027-4149-bb74-320d556ba9f9",
-    "contractDurationMonths": null,
-    "buyerEmail": null,
-    "buyerLegalType": "pub-undert",
-    "buyerActivity": null,
-    "contractFolderId": null,
-    "internalId": "022f220c-7027-4149-bb74-320d556ba9f9",
-    "procedureCode": null,
-    "accelerated": null,
-    "performanceLocation": {
-      "postalZone": "10969",
-      "city": "Berlin"
-    },
-    "source": "oeffentlichevergabe.de"
-  },
-  {
-    "publicationNumber": "OEV-25852398",
-    "title": "Beschaffung eines KI-Serversystems",
-    "buyerName": "Hochschule Mittweida",
-    "country": "DEU",
-    "publicationDate": "2026-09-24",
-    "deadline": null,
-    "noticeType": "cn-standard",
-    "procedureType": null,
-    "cpvCodes": [],
-    "estimatedValue": null,
-    "currency": null,
-    "description": "a) Zur Angebotsabgabe auffordernde Stelle: Name des Auftraggebers: Hochschule Mittweida; Straße, Hausnummer: Technikumplatz 17; Postleitzahl: 09648; Ort: Mittweida; Land: Deutschland; Den Zuschlag erteilende Stelle: s.o.; Stelle, bei der die Angebote oder Teilnahmeanträge einzureichen sind: s.o.\nb) Vergabeart: Öffentliche Ausschreibung\nc) Form, in der Teilnahmeanträge oder Angebote einzureichen sind: Angebote können nur elektronisch abgegeben werden; Anschrift, an die die Angebote elektronisch zu übermitteln sind: www.evergabe.de \nd) Art und Umfang der Leistung: Generative KI verändert die Medienproduktion grundlegend. Für die Hochschule Mittweida ergibt sich daraus ein doppelter Auftrag: Studierende müssen die Technologien praktisch beherrschen lernen, und die Fakultät muss demonstrieren können, wie kontrollierte KI-Workflows in realen Medienproduktionen eingesetzt werden können.\nSubscription-basierte Online-Modelle sind für die Lehre nur sehr eingeschränkt nutzbar. Sie bieten zwar niedrige Einstiegshürden, beschränken aber Kontrolle, Parametrisierung, Datenhoheit, Reproduzierbarkeit, Modelltraining und langfristige Planbarkeit. Außerdem können Modelle, Funktionen oder Nutzungsbedingungen kurzfristig geändert werden. Für professionelle Lehr- und Produktionspipelines ist deshalb eine eigene lokale Infrastruktur erforderlich.\nDie Fakultät Medien benötigt ein lokales, hochleistungsfähiges KI-Serversystem, um generative KI im Medienbereich nicht nur konsumierend, sondern kontrolliert, reproduzierbar und lehrbar einsetzen zu können. Im Mittelpunkt stehen dabei Video- und Bildgenerierung, Virtual-Production-Postproduction, LoRA-/Modelltraining LLM-gestützte Text- und Rechercheprozesse, Transkription, Audioausgabe sowie agentische Automatisierungen.; Orte der Leistungserbringung: Offizielle Bezeichnung: Hochschule Mittweida; Straße, Hausnummer: Technikumplatz 17; Postleitzahl: 09648; Ort: Mittweida; Land: Deutschland\ne) Ggf. Anzahl, Größe und Art der einzelnen Lose: entfällt, da keine losweise Vergabe\nf) Nebenangebote sind nicht zugelassen \ng) Ausführungsfrist: Beginn: nicht angegeben; Ende: 20.11.2026; ab Zuschlagserteilung bis spätestens 20.11.2026 mit anschließendem Hardwareservice/ -garantie und Systemservice für 36 Monate\nh) Die Vergabeunterlagen werden auf der Vergabeplattform evergabe.de bereitgestellt.\ni) Angebotsfrist: 08.10.2026, 10:00 Uhr; Bindefrist: 30.11.2026\nj) Höhe etwa geforderter Sicherheitsleistungen: keine\nk) Wesentliche Zahlungsbedingungen oder Angabe der Unterlagen, in denen sie enthalten sind: Allgemeinen Vertragsbedingungen für die Ausführung von Leistungen (VOL/B) in der Fassung der Bekanntmachung vom 05.08.2003 (BAnz. Nr. 178a).\nl) Mit dem Angebot oder dem Teilnahmeantrag vorzulegenden Unterlagen, die die Auftraggeber für die Beurteilung der Eignung des Bewerbers oder Bieters verlangen: sind den Vergabeunterlagen zu entnehmen\nm) Kosten für Vervielfältigungen der Vergabeunterlagen: entfällt\nn) Angabe der Zuschlagskriterien, sofern diese nicht in den Vergabeunterlagen genannt werden: entfällt, siehe Vergabeunterlagen\n\n\nHardware,IT-Systemdienstleistungen",
-    "originalUrl": "https://oeffentlichevergabe.de/ui/de/search/details?noticeId=25852398",
-    "lotName": null,
-    "awardedTo": null,
-    "documentsUrl": "https://oeffentlichevergabe.de/ui/de/search/details?noticeId=25852398",
-    "contractDurationMonths": null,
-    "buyerEmail": null,
-    "buyerLegalType": null,
-    "buyerActivity": null,
-    "contractFolderId": null,
-    "internalId": "25852398",
-    "procedureCode": null,
-    "accelerated": null,
-    "performanceLocation": {
-      "postalZone": null,
-      "city": "09648 Mittweida"
     },
     "source": "oeffentlichevergabe.de"
   }
