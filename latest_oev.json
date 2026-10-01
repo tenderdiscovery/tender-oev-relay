@@ -1,68 +1,34 @@
 [
   {
-    "publicationNumber": "OEV-675fa09d-5152-46c5-9967-ed104d16276b",
-    "title": "Rahmenvereinbarung Unterstützung im Themenbereich IT-Security",
-    "buyerName": "Investitionsbank Schleswig-Holstein",
+    "publicationNumber": "OEV-01a0e7c7-a2a0-4e23-9159-21abf88c8c06",
+    "title": "Koordinierung des Data Spaces Hub Germany",
+    "buyerName": "Bundesministerium für Digitales und Staatsmodernisierung",
     "country": "DEU",
-    "publicationDate": "2026-09-27",
+    "publicationDate": "2026-09-30",
     "deadline": null,
     "noticeType": "cn-standard",
     "procedureType": null,
     "cpvCodes": [
-      "72000000"
+      "79421000"
     ],
     "estimatedValue": null,
     "currency": null,
-    "description": "Die Investitionsbank Schleswig-Holstein (IB.SH) das zentrale Förderinstitut des Landes mit derzeit knapp 900 Mitarbeitern und Mitarbeiterinnen sucht drei Rahmenvertragspartner als IT-Dienstleister für die Erbringung von IT-Unterstützungsleistungen im Bereich der IT-Security.\n---------------------------------------------------------------------------------------------------------------------------------------------------------------\nEs ist der Abschluss, der in den Unterlagen als Anlage 1 beigefügten Rahmenvereinbarung, der Vereinbarung zur Auftragsverarbeitung mit den drei Bietern, die die Mindestkriterien erfüllen und Plätze 1-3 belegen, beabsichtigt.\n---------------------------------------------------------------------------------------------------------------------------------------------------------------\nDie von der IB.SH konkret benötigten Unterstützungsleistungen werden unter Berücksichtigung der\nArbeits- und Projektsituation, Qualifikation, Verfügbarkeit im Rahmen von Mini-\nWettbewerben abgerufen. Die Gestaltung dieser Einzelabrufe ist in der Anlage 3 Rahmenvereinbarung geregelt (s. § 2 der Rahmenvereinbarung).\n---------------------------------------------------------------------------------------------------------------------------------------------------------------",
-    "originalUrl": "https://oeffentlichevergabe.de/ui/de/search/details?noticeId=675fa09d-5152-46c5-9967-ed104d16276b",
+    "description": "Das Vorhaben/die Leistung dient der Unterstützung des BMDS im Rahmen seiner Ressortzuständigkeit für digitale Souveränität und Datenökonomie. Im Einzelnen sind folgende Leistungen zu erbringen:\n1. Wahrnehmung von Koordinierungs- und Steuerungsaufgaben des Data Spaces Hub Germany als erster Anlaufpunkt für interessierte Stakeholder aus Deutschland (Single Point of Contact für Informationen zu Datenräumen)\n2. Sektorspezifischer und sektorübergreifender Wissensaufbau und -vermittlung zu Datenraumthemen (Know-How-Vermittlung)\n3. Fachliche und organisatorische Begleitung und Unterstützung der Arbeit von Gaia-X (Gaia-X Multiplikator)\n4. Beratende technische und rechtliche Unterstützung von Datenrauminitiativen bei der Entwicklung datenraumspezifischer Business Cases und der Etablierung interoperabler Datenräume (Geschäftsmodellentwicklung)\n5. Unterstützung beim Aufbau einer breiten Anwenderbasis für Datenräumen in Deutschland (On-Boarding-Unterstützung)\n6. Öffentlichkeitsarbeit",
+    "originalUrl": "https://oeffentlichevergabe.de/ui/de/search/details?noticeId=01a0e7c7-a2a0-4e23-9159-21abf88c8c06",
     "lotName": null,
     "awardedTo": null,
-    "documentsUrl": "https://oeffentlichevergabe.de/ui/de/search/details?noticeId=675fa09d-5152-46c5-9967-ed104d16276b",
+    "documentsUrl": "https://oeffentlichevergabe.de/ui/de/search/details?noticeId=01a0e7c7-a2a0-4e23-9159-21abf88c8c06",
     "contractDurationMonths": null,
     "buyerEmail": null,
-    "buyerLegalType": "anst-oer-land",
+    "buyerLegalType": "oberst-bbeh",
     "buyerActivity": null,
     "contractFolderId": null,
-    "internalId": "675fa09d-5152-46c5-9967-ed104d16276b",
+    "internalId": "01a0e7c7-a2a0-4e23-9159-21abf88c8c06",
     "procedureCode": null,
     "accelerated": null,
     "performanceLocation": {
-      "postalZone": "24143",
-      "city": "Kiel"
-    },
-    "source": "oeffentlichevergabe.de"
-  },
-  {
-    "publicationNumber": "OEV-3077096b-3595-4922-97ca-da04c29c0b19",
-    "title": "Open-House-Zulassungsverfahren zur Zulassung von Distributoren für das openDesk-Ökosystem",
-    "buyerName": "Zentrum für Digitale Souveränität der Öffentlichen Verwaltung (ZenDiS) GmbH",
-    "country": "DEU",
-    "publicationDate": "2026-09-27",
-    "deadline": null,
-    "noticeType": "cn-standard",
-    "procedureType": null,
-    "cpvCodes": [
-      "72260000",
-      "72268000"
-    ],
-    "estimatedValue": null,
-    "currency": null,
-    "description": "Die Zentrum für Digitale Souveränität der Öffentlichen Verwaltung (ZenDiS) GmbH führt ein offenes Zulassungssystem in Form eines Open-House-Verfahrens zur Zulassung von Distributoren für das openDesk-Ökosystem durch.  Zugelassene Distributoren fungieren als Bindeglied zwischen dem von ZenDiS zusammengestellten openDesk-Portfolio und dem Endkundenvertriebsnetz. Sie stellen auf Grundlage der von ZenDiS vorgegebenen Paketkonfigurationen Softwarekomponenten zu Bundles und zeitlich begrenzten Subskriptionen zusammen, bauen ein Netz von IT-Partnern auf und vertreiben die Angebote über dieses Partnernetz.  Das Verfahren ist kein Vergabeverfahren im Sinne des GWB, der VgV oder der VOB/A. Es erfolgt keine vergleichende Auswahl, Wertung oder Reihung der Antragsteller. Jeder Antragsteller, der sämtliche bekannt gemachten Zulassungsvoraussetzungen erfüllt, wird zu einheitlichen und nicht verhandelbaren Bedingungen zugelassen. Die Anzahl der Zulassungen ist nicht begrenzt.",
-    "originalUrl": "https://oeffentlichevergabe.de/ui/de/search/details?noticeId=3077096b-3595-4922-97ca-da04c29c0b19",
-    "lotName": null,
-    "awardedTo": null,
-    "documentsUrl": "https://oeffentlichevergabe.de/ui/de/search/details?noticeId=3077096b-3595-4922-97ca-da04c29c0b19",
-    "contractDurationMonths": null,
-    "buyerEmail": null,
-    "buyerLegalType": "pub-undert-cga",
-    "buyerActivity": null,
-    "contractFolderId": null,
-    "internalId": "3077096b-3595-4922-97ca-da04c29c0b19",
-    "procedureCode": null,
-    "accelerated": null,
-    "performanceLocation": {
-      "postalZone": "44803",
-      "city": "Bochum"
+      "postalZone": "10117",
+      "city": "Berlin"
     },
     "source": "oeffentlichevergabe.de"
   }
