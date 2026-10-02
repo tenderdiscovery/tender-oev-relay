@@ -1,5 +1,40 @@
 [
   {
+    "publicationNumber": "OEV-dd6d033e-0b58-4069-a348-296a1c8bdb85",
+    "title": "Security Managed Services",
+    "buyerName": "Universitätsklinikum Frankfurt",
+    "country": "DEU",
+    "publicationDate": "2026-10-01",
+    "deadline": null,
+    "noticeType": "cn-standard",
+    "procedureType": null,
+    "cpvCodes": [
+      "72253000",
+      "72315000",
+      "72500000"
+    ],
+    "estimatedValue": null,
+    "currency": null,
+    "description": "Gegenstand der Beschaffung ist ein Cybersecurity Managed Service mit fünf Leistungsbereichen in einem Los: 1. SOC / SIEM – zentrale Detektion, Korrelation und Analyse; 2. NDR – netzwerkbasierte Erkennung und Anomalieanalyse; 3. Vulnerability Management - Scanning, Triage, Priorisierung, Remediation-Tracking; 4. EDR-Management – Betrieb der EDR-Plattform für ca. 11.200 Endpunkte; 5. IoMT-Security – passive Überwachung von ca. 5.000 vernetzten Medizingeräten.",
+    "originalUrl": "https://oeffentlichevergabe.de/ui/de/search/details?noticeId=dd6d033e-0b58-4069-a348-296a1c8bdb85",
+    "lotName": null,
+    "awardedTo": null,
+    "documentsUrl": "https://oeffentlichevergabe.de/ui/de/search/details?noticeId=dd6d033e-0b58-4069-a348-296a1c8bdb85",
+    "contractDurationMonths": null,
+    "buyerEmail": null,
+    "buyerLegalType": "anst-oer-land",
+    "buyerActivity": null,
+    "contractFolderId": null,
+    "internalId": "dd6d033e-0b58-4069-a348-296a1c8bdb85",
+    "procedureCode": null,
+    "accelerated": null,
+    "performanceLocation": {
+      "postalZone": "60590",
+      "city": "Frankfurt am Main"
+    },
+    "source": "oeffentlichevergabe.de"
+  },
+  {
     "publicationNumber": "OEV-01a0e7c7-a2a0-4e23-9159-21abf88c8c06",
     "title": "Koordinierung des Data Spaces Hub Germany",
     "buyerName": "Bundesministerium für Digitales und Staatsmodernisierung",
