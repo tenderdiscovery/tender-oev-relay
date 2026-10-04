@@ -33,38 +33,5 @@
       "city": "Frankfurt am Main"
     },
     "source": "oeffentlichevergabe.de"
-  },
-  {
-    "publicationNumber": "OEV-01a0e7c7-a2a0-4e23-9159-21abf88c8c06",
-    "title": "Koordinierung des Data Spaces Hub Germany",
-    "buyerName": "Bundesministerium für Digitales und Staatsmodernisierung",
-    "country": "DEU",
-    "publicationDate": "2026-09-30",
-    "deadline": null,
-    "noticeType": "cn-standard",
-    "procedureType": null,
-    "cpvCodes": [
-      "79421000"
-    ],
-    "estimatedValue": null,
-    "currency": null,
-    "description": "Das Vorhaben/die Leistung dient der Unterstützung des BMDS im Rahmen seiner Ressortzuständigkeit für digitale Souveränität und Datenökonomie. Im Einzelnen sind folgende Leistungen zu erbringen:\n1. Wahrnehmung von Koordinierungs- und Steuerungsaufgaben des Data Spaces Hub Germany als erster Anlaufpunkt für interessierte Stakeholder aus Deutschland (Single Point of Contact für Informationen zu Datenräumen)\n2. Sektorspezifischer und sektorübergreifender Wissensaufbau und -vermittlung zu Datenraumthemen (Know-How-Vermittlung)\n3. Fachliche und organisatorische Begleitung und Unterstützung der Arbeit von Gaia-X (Gaia-X Multiplikator)\n4. Beratende technische und rechtliche Unterstützung von Datenrauminitiativen bei der Entwicklung datenraumspezifischer Business Cases und der Etablierung interoperabler Datenräume (Geschäftsmodellentwicklung)\n5. Unterstützung beim Aufbau einer breiten Anwenderbasis für Datenräumen in Deutschland (On-Boarding-Unterstützung)\n6. Öffentlichkeitsarbeit",
-    "originalUrl": "https://oeffentlichevergabe.de/ui/de/search/details?noticeId=01a0e7c7-a2a0-4e23-9159-21abf88c8c06",
-    "lotName": null,
-    "awardedTo": null,
-    "documentsUrl": "https://oeffentlichevergabe.de/ui/de/search/details?noticeId=01a0e7c7-a2a0-4e23-9159-21abf88c8c06",
-    "contractDurationMonths": null,
-    "buyerEmail": null,
-    "buyerLegalType": "oberst-bbeh",
-    "buyerActivity": null,
-    "contractFolderId": null,
-    "internalId": "01a0e7c7-a2a0-4e23-9159-21abf88c8c06",
-    "procedureCode": null,
-    "accelerated": null,
-    "performanceLocation": {
-      "postalZone": "10117",
-      "city": "Berlin"
-    },
-    "source": "oeffentlichevergabe.de"
   }
 ]
