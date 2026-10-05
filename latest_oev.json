@@ -1,36 +1,34 @@
 [
   {
-    "publicationNumber": "OEV-dd6d033e-0b58-4069-a348-296a1c8bdb85",
-    "title": "Security Managed Services",
-    "buyerName": "Universitätsklinikum Frankfurt",
+    "publicationNumber": "OEV-4d06b154-4cbf-4d91-9dca-1c8a3e2e56f0",
+    "title": "Konzeptionierung, Gründung und Betrieb des Dateninstituts",
+    "buyerName": "Bundesrepublik Deutschland, vertreten durch das Bundesministerium für Wirtschaft und Klimaschutz",
     "country": "DEU",
-    "publicationDate": "2026-10-01",
+    "publicationDate": "2026-10-04",
     "deadline": null,
-    "noticeType": "cn-standard",
+    "noticeType": "can-standard",
     "procedureType": null,
     "cpvCodes": [
-      "72253000",
-      "72315000",
-      "72500000"
+      "72000000"
     ],
     "estimatedValue": null,
     "currency": null,
-    "description": "Gegenstand der Beschaffung ist ein Cybersecurity Managed Service mit fünf Leistungsbereichen in einem Los: 1. SOC / SIEM – zentrale Detektion, Korrelation und Analyse; 2. NDR – netzwerkbasierte Erkennung und Anomalieanalyse; 3. Vulnerability Management - Scanning, Triage, Priorisierung, Remediation-Tracking; 4. EDR-Management – Betrieb der EDR-Plattform für ca. 11.200 Endpunkte; 5. IoMT-Security – passive Überwachung von ca. 5.000 vernetzten Medizingeräten.",
-    "originalUrl": "https://oeffentlichevergabe.de/ui/de/search/details?noticeId=dd6d033e-0b58-4069-a348-296a1c8bdb85",
+    "description": "Daten sind der zentrale Innovationstreiber des 21. Jahrhunderts und eine der integralen Voraussetzungen für die wirtschaftliche Prosperität in Deutschland. Die Potenziale sind enorm und die Anwendungsgebiete vielfältig. Gesellschaftliche Teilhabe, wirtschaftliche Wertschöpfung und politische Entscheidungsfindung können von einer besseren Nutzung von Daten profitieren. Die Möglichkeiten der Datennutzung werden viel diskutiert. Aber aus guten Ideen und Impulsen werden in Deutschland zu selten konkrete Projekte und Anwendungen. \n\nUm die Möglichkeiten im Bereich der Datennutzung in Deutschland auszuschöpfen, sieht der Koalitionsvertrag unter anderem die Schaffung eines Dateninstituts vor, das die sektorenübergreifende Datenverfügbarkeit, -nutzung und -standardisierung vorantreibt und Datentreuhändermodelle sowie entsprechende Lizenzmodelle etabliert. Damit soll auch ein Beitrag zur Daten- und digitalen Souveränität Deutschlands geleistet werden. Auch in verschiedenen Stakeholder-Diskussionen wurde das große Interesse von Wissenschaft, Zivilgesellschaft, Wirtschaft, Verwaltung und Politik an der Konzeption und Gründung eines Dateninstituts bestätigt. \n\nEine Gründungskommission, bestehend aus Mitgliedern aus Verwaltung, Wirtschaft, Zivilgesellschaft und Wissenschaft, hat Empfehlungen für den Aufbau und die Operationalisierung eines Dateninstituts erarbeitet, die auf dem Digital-Gipfel am 9. Dezember 2022 vorgestellt wurden. \n\nBasierend auf den Empfehlungen der Gründungskommission  haben das Bundesministerium für Wirtschaft und Klimaschutz (BMWK) und das Bundesministerium des Innern und für Heimat (BMI) unter Beteiligung aller Ressorts der Bundesregierung ein Konzeptpapier  erstellt, das Ziele, Ausrichtung und prioritäre Aufgabenfelder des Dateninstituts spezifiziert. Es sieht vor, dass das Dateninstitut – als unabhängige und gemeinwohlorientierte Organisation – Daten in Deutschland innerhalb des bestehenden Rechtsrahmens und im Sinne des Datenschutzes und der Datensouveränität gesamtgesellschaftlich besser verfügbar und nutzbar macht. Es soll einen schlagkräftigen nationalen Akteur bilden, der Know-how bündelt und zielgerichtet Hilfestellung – insbesondere beim intersektoralen Datenaustausch – leistet. Es soll dabei auf den zahlreichen vorhandenen Initiativen zum besseren Nutzen oder Teilen von Daten aufbauen, so dass keine Doppelstrukturen geschaffen werden. \n\nDer Aufbau und der spätere Betrieb sollen in einem agilen und bedarfsorientierten Ansatz erfolgen, um präzise die unterschiedlichen Bedarfe der Stakeholder zu identifizieren und zu adressieren. Daher werden schon im Rahmen dieses Auftrags entsprechende Elemente berücksichtigt und der wettbewerbliche Dialog als Vergabeverfahren gewählt. Parallel zu vorliegenden Verfahren wird der Auftraggeber verschiedene sektoren- und akteursübergreifende Pilotprojekte (Use Cases) beauftragen. Mithilfe dieser Pilotprojekte sollen konkrete Herausforderungen beim Teilen und Nutzen von Daten identifiziert werden, die durch das Dateninstitut anzugehen sind. Die Ergebnisse dieser Use Cases wird der Auftraggeber laufend in den hier ausgeschriebenen wettbewerblichen Dialog einbringen.",
+    "originalUrl": "https://oeffentlichevergabe.de/ui/de/search/details?noticeId=4d06b154-4cbf-4d91-9dca-1c8a3e2e56f0",
     "lotName": null,
     "awardedTo": null,
-    "documentsUrl": "https://oeffentlichevergabe.de/ui/de/search/details?noticeId=dd6d033e-0b58-4069-a348-296a1c8bdb85",
+    "documentsUrl": "https://oeffentlichevergabe.de/ui/de/search/details?noticeId=4d06b154-4cbf-4d91-9dca-1c8a3e2e56f0",
     "contractDurationMonths": null,
     "buyerEmail": null,
-    "buyerLegalType": "anst-oer-land",
+    "buyerLegalType": "oberst-bbeh",
     "buyerActivity": null,
     "contractFolderId": null,
-    "internalId": "dd6d033e-0b58-4069-a348-296a1c8bdb85",
+    "internalId": "4d06b154-4cbf-4d91-9dca-1c8a3e2e56f0",
     "procedureCode": null,
     "accelerated": null,
     "performanceLocation": {
-      "postalZone": "60590",
-      "city": "Frankfurt am Main"
+      "postalZone": "10115",
+      "city": "Berlin"
     },
     "source": "oeffentlichevergabe.de"
   }
