@@ -1,5 +1,38 @@
 [
   {
+    "publicationNumber": "OEV-c38f8ec7-93be-4bd2-975e-50bc64723f5a",
+    "title": "SIEM/SOC - SIEM/SOC: Dedizierte Serverhardware",
+    "buyerName": "Universitätsmedizin Greifswald KöR",
+    "country": "DEU",
+    "publicationDate": "2026-10-06",
+    "deadline": null,
+    "noticeType": "can-standard",
+    "procedureType": null,
+    "cpvCodes": [
+      "48000000"
+    ],
+    "estimatedValue": null,
+    "currency": null,
+    "description": "Buildingblock C4 - BS Performance\nDedizierte Serverhardware\nHardware und Software Building Block C4\n(2 x Bladeserver Per).\nServermanagement Intersight C4\nWartung und Support Building Block C4\n\nNetApp 10x10 TB Drivepack\nHardware und Software\nDrive\nPack,HDD,12G,10x10TB,DS460C\n1000 x SW,Core Bundle,Per-\n0.1TB,NLSAS,Add-On (Erweiterung FAS8300)\nWartung und Support bis Ende Hauptsystem",
+    "originalUrl": "https://oeffentlichevergabe.de/ui/de/search/details?noticeId=c38f8ec7-93be-4bd2-975e-50bc64723f5a",
+    "lotName": null,
+    "awardedTo": null,
+    "documentsUrl": "https://oeffentlichevergabe.de/ui/de/search/details?noticeId=c38f8ec7-93be-4bd2-975e-50bc64723f5a",
+    "contractDurationMonths": null,
+    "buyerEmail": null,
+    "buyerLegalType": "koerp-oer-land",
+    "buyerActivity": null,
+    "contractFolderId": null,
+    "internalId": "c38f8ec7-93be-4bd2-975e-50bc64723f5a",
+    "procedureCode": null,
+    "accelerated": null,
+    "performanceLocation": {
+      "postalZone": "17489",
+      "city": "Greifswald"
+    },
+    "source": "oeffentlichevergabe.de"
+  },
+  {
     "publicationNumber": "OEV-4d06b154-4cbf-4d91-9dca-1c8a3e2e56f0",
     "title": "Konzeptionierung, Gründung und Betrieb des Dateninstituts",
     "buyerName": "Bundesrepublik Deutschland, vertreten durch das Bundesministerium für Wirtschaft und Klimaschutz",
