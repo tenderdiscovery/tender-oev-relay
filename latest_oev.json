@@ -1,5 +1,40 @@
 [
   {
+    "publicationNumber": "OEV-7bec330b-8215-47f6-b029-50bf0d335669",
+    "title": "LOTTO und TOTO Mecklenburg-Vorpommern  Ausschreibung Lotterielösung für Annahmestellen (Hard- & Software)",
+    "buyerName": "Verwaltungsgesellschaft Lotto und Toto in Mecklenburg-Vorpommern mbH",
+    "country": "DEU",
+    "publicationDate": "2026-10-07",
+    "deadline": null,
+    "noticeType": "can-standard",
+    "procedureType": null,
+    "cpvCodes": [
+      "72212900",
+      "72263000",
+      "72510000"
+    ],
+    "estimatedValue": null,
+    "currency": null,
+    "description": "Beschaffung einer Android-basierten Gesamtlösung (Hard- und Software) für Lotto-Annahmestellen",
+    "originalUrl": "https://oeffentlichevergabe.de/ui/de/search/details?noticeId=7bec330b-8215-47f6-b029-50bf0d335669",
+    "lotName": null,
+    "awardedTo": null,
+    "documentsUrl": "https://oeffentlichevergabe.de/ui/de/search/details?noticeId=7bec330b-8215-47f6-b029-50bf0d335669",
+    "contractDurationMonths": null,
+    "buyerEmail": null,
+    "buyerLegalType": "pub-undert",
+    "buyerActivity": null,
+    "contractFolderId": null,
+    "internalId": "7bec330b-8215-47f6-b029-50bf0d335669",
+    "procedureCode": null,
+    "accelerated": null,
+    "performanceLocation": {
+      "postalZone": "18059",
+      "city": "Rostock"
+    },
+    "source": "oeffentlichevergabe.de"
+  },
+  {
     "publicationNumber": "OEV-c38f8ec7-93be-4bd2-975e-50bc64723f5a",
     "title": "SIEM/SOC - SIEM/SOC: Dedizierte Serverhardware",
     "buyerName": "Universitätsmedizin Greifswald KöR",
@@ -29,39 +64,6 @@
     "performanceLocation": {
       "postalZone": "17489",
       "city": "Greifswald"
-    },
-    "source": "oeffentlichevergabe.de"
-  },
-  {
-    "publicationNumber": "OEV-4d06b154-4cbf-4d91-9dca-1c8a3e2e56f0",
-    "title": "Konzeptionierung, Gründung und Betrieb des Dateninstituts",
-    "buyerName": "Bundesrepublik Deutschland, vertreten durch das Bundesministerium für Wirtschaft und Klimaschutz",
-    "country": "DEU",
-    "publicationDate": "2026-10-04",
-    "deadline": null,
-    "noticeType": "can-standard",
-    "procedureType": null,
-    "cpvCodes": [
-      "72000000"
-    ],
-    "estimatedValue": null,
-    "currency": null,
-    "description": "Daten sind der zentrale Innovationstreiber des 21. Jahrhunderts und eine der integralen Voraussetzungen für die wirtschaftliche Prosperität in Deutschland. Die Potenziale sind enorm und die Anwendungsgebiete vielfältig. Gesellschaftliche Teilhabe, wirtschaftliche Wertschöpfung und politische Entscheidungsfindung können von einer besseren Nutzung von Daten profitieren. Die Möglichkeiten der Datennutzung werden viel diskutiert. Aber aus guten Ideen und Impulsen werden in Deutschland zu selten konkrete Projekte und Anwendungen. \n\nUm die Möglichkeiten im Bereich der Datennutzung in Deutschland auszuschöpfen, sieht der Koalitionsvertrag unter anderem die Schaffung eines Dateninstituts vor, das die sektorenübergreifende Datenverfügbarkeit, -nutzung und -standardisierung vorantreibt und Datentreuhändermodelle sowie entsprechende Lizenzmodelle etabliert. Damit soll auch ein Beitrag zur Daten- und digitalen Souveränität Deutschlands geleistet werden. Auch in verschiedenen Stakeholder-Diskussionen wurde das große Interesse von Wissenschaft, Zivilgesellschaft, Wirtschaft, Verwaltung und Politik an der Konzeption und Gründung eines Dateninstituts bestätigt. \n\nEine Gründungskommission, bestehend aus Mitgliedern aus Verwaltung, Wirtschaft, Zivilgesellschaft und Wissenschaft, hat Empfehlungen für den Aufbau und die Operationalisierung eines Dateninstituts erarbeitet, die auf dem Digital-Gipfel am 9. Dezember 2022 vorgestellt wurden. \n\nBasierend auf den Empfehlungen der Gründungskommission  haben das Bundesministerium für Wirtschaft und Klimaschutz (BMWK) und das Bundesministerium des Innern und für Heimat (BMI) unter Beteiligung aller Ressorts der Bundesregierung ein Konzeptpapier  erstellt, das Ziele, Ausrichtung und prioritäre Aufgabenfelder des Dateninstituts spezifiziert. Es sieht vor, dass das Dateninstitut – als unabhängige und gemeinwohlorientierte Organisation – Daten in Deutschland innerhalb des bestehenden Rechtsrahmens und im Sinne des Datenschutzes und der Datensouveränität gesamtgesellschaftlich besser verfügbar und nutzbar macht. Es soll einen schlagkräftigen nationalen Akteur bilden, der Know-how bündelt und zielgerichtet Hilfestellung – insbesondere beim intersektoralen Datenaustausch – leistet. Es soll dabei auf den zahlreichen vorhandenen Initiativen zum besseren Nutzen oder Teilen von Daten aufbauen, so dass keine Doppelstrukturen geschaffen werden. \n\nDer Aufbau und der spätere Betrieb sollen in einem agilen und bedarfsorientierten Ansatz erfolgen, um präzise die unterschiedlichen Bedarfe der Stakeholder zu identifizieren und zu adressieren. Daher werden schon im Rahmen dieses Auftrags entsprechende Elemente berücksichtigt und der wettbewerbliche Dialog als Vergabeverfahren gewählt. Parallel zu vorliegenden Verfahren wird der Auftraggeber verschiedene sektoren- und akteursübergreifende Pilotprojekte (Use Cases) beauftragen. Mithilfe dieser Pilotprojekte sollen konkrete Herausforderungen beim Teilen und Nutzen von Daten identifiziert werden, die durch das Dateninstitut anzugehen sind. Die Ergebnisse dieser Use Cases wird der Auftraggeber laufend in den hier ausgeschriebenen wettbewerblichen Dialog einbringen.",
-    "originalUrl": "https://oeffentlichevergabe.de/ui/de/search/details?noticeId=4d06b154-4cbf-4d91-9dca-1c8a3e2e56f0",
-    "lotName": null,
-    "awardedTo": null,
-    "documentsUrl": "https://oeffentlichevergabe.de/ui/de/search/details?noticeId=4d06b154-4cbf-4d91-9dca-1c8a3e2e56f0",
-    "contractDurationMonths": null,
-    "buyerEmail": null,
-    "buyerLegalType": "oberst-bbeh",
-    "buyerActivity": null,
-    "contractFolderId": null,
-    "internalId": "4d06b154-4cbf-4d91-9dca-1c8a3e2e56f0",
-    "procedureCode": null,
-    "accelerated": null,
-    "performanceLocation": {
-      "postalZone": "10115",
-      "city": "Berlin"
     },
     "source": "oeffentlichevergabe.de"
   }
