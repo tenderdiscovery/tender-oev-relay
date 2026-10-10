@@ -1,5 +1,38 @@
 [
   {
+    "publicationNumber": "OEV-d9703d3f-b294-4f38-888d-ff4972147ee7",
+    "title": "Renewal OpenText-Umgebung",
+    "buyerName": "Stadtwerke Postdam GmbH",
+    "country": "DEU",
+    "publicationDate": "2026-10-09",
+    "deadline": null,
+    "noticeType": "cn-standard",
+    "procedureType": null,
+    "cpvCodes": [
+      "48000000"
+    ],
+    "estimatedValue": null,
+    "currency": null,
+    "description": "Gegenstand der Ausschreibung ist die Verlängerung der Softwarepflege- und Supportleistungen für die beim Auftraggeber eingesetzten OpenText-Produkte Identity Manager (IDM), Open Enterprise Server (OES) und ZENworks Configuration Management (ZCM). Darüber hinaus umfasst der Auftrag die Möglichkeit des Abrufs zusätzlicher Support-, Beratungs- und Unterstützungsleistungen im Umfeld der bestehenden OpenText-Umgebung.",
+    "originalUrl": "https://oeffentlichevergabe.de/ui/de/search/details?noticeId=d9703d3f-b294-4f38-888d-ff4972147ee7",
+    "lotName": null,
+    "awardedTo": null,
+    "documentsUrl": "https://oeffentlichevergabe.de/ui/de/search/details?noticeId=d9703d3f-b294-4f38-888d-ff4972147ee7",
+    "contractDurationMonths": null,
+    "buyerEmail": null,
+    "buyerLegalType": "pub-undert",
+    "buyerActivity": null,
+    "contractFolderId": null,
+    "internalId": "d9703d3f-b294-4f38-888d-ff4972147ee7",
+    "procedureCode": null,
+    "accelerated": null,
+    "performanceLocation": {
+      "postalZone": "14480",
+      "city": "Potsdam"
+    },
+    "source": "oeffentlichevergabe.de"
+  },
+  {
     "publicationNumber": "OEV-7bec330b-8215-47f6-b029-50bf0d335669",
     "title": "LOTTO und TOTO Mecklenburg-Vorpommern  Ausschreibung Lotterielösung für Annahmestellen (Hard- & Software)",
     "buyerName": "Verwaltungsgesellschaft Lotto und Toto in Mecklenburg-Vorpommern mbH",
@@ -31,39 +64,6 @@
     "performanceLocation": {
       "postalZone": "18059",
       "city": "Rostock"
-    },
-    "source": "oeffentlichevergabe.de"
-  },
-  {
-    "publicationNumber": "OEV-c38f8ec7-93be-4bd2-975e-50bc64723f5a",
-    "title": "SIEM/SOC - SIEM/SOC: Dedizierte Serverhardware",
-    "buyerName": "Universitätsmedizin Greifswald KöR",
-    "country": "DEU",
-    "publicationDate": "2026-10-06",
-    "deadline": null,
-    "noticeType": "can-standard",
-    "procedureType": null,
-    "cpvCodes": [
-      "48000000"
-    ],
-    "estimatedValue": null,
-    "currency": null,
-    "description": "Buildingblock C4 - BS Performance\nDedizierte Serverhardware\nHardware und Software Building Block C4\n(2 x Bladeserver Per).\nServermanagement Intersight C4\nWartung und Support Building Block C4\n\nNetApp 10x10 TB Drivepack\nHardware und Software\nDrive\nPack,HDD,12G,10x10TB,DS460C\n1000 x SW,Core Bundle,Per-\n0.1TB,NLSAS,Add-On (Erweiterung FAS8300)\nWartung und Support bis Ende Hauptsystem",
-    "originalUrl": "https://oeffentlichevergabe.de/ui/de/search/details?noticeId=c38f8ec7-93be-4bd2-975e-50bc64723f5a",
-    "lotName": null,
-    "awardedTo": null,
-    "documentsUrl": "https://oeffentlichevergabe.de/ui/de/search/details?noticeId=c38f8ec7-93be-4bd2-975e-50bc64723f5a",
-    "contractDurationMonths": null,
-    "buyerEmail": null,
-    "buyerLegalType": "koerp-oer-land",
-    "buyerActivity": null,
-    "contractFolderId": null,
-    "internalId": "c38f8ec7-93be-4bd2-975e-50bc64723f5a",
-    "procedureCode": null,
-    "accelerated": null,
-    "performanceLocation": {
-      "postalZone": "17489",
-      "city": "Greifswald"
     },
     "source": "oeffentlichevergabe.de"
   }
