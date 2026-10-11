@@ -1,5 +1,38 @@
 [
   {
+    "publicationNumber": "OEV-e603473c-e820-4545-89d2-66d2d349a875",
+    "title": "Bereitstellung VS-nfD (= Verschlusssache -nur für den Dienstebrauch) zugelassener mobiler Arbeitsplätze (vollintegrierter Client)",
+    "buyerName": "Landespolizeidirektion Saarland",
+    "country": "DEU",
+    "publicationDate": "2026-10-10",
+    "deadline": null,
+    "noticeType": "cn-standard",
+    "procedureType": null,
+    "cpvCodes": [
+      "48730000"
+    ],
+    "estimatedValue": null,
+    "currency": null,
+    "description": "Bereitstellung VS-nfD (=Verschlusssache - nur für den Dienstgebrauch) zugelassener mobiler Arbeitsplätze (vollintegrierter Client)",
+    "originalUrl": "https://oeffentlichevergabe.de/ui/de/search/details?noticeId=e603473c-e820-4545-89d2-66d2d349a875",
+    "lotName": null,
+    "awardedTo": null,
+    "documentsUrl": "https://oeffentlichevergabe.de/ui/de/search/details?noticeId=e603473c-e820-4545-89d2-66d2d349a875",
+    "contractDurationMonths": null,
+    "buyerEmail": null,
+    "buyerLegalType": "omu-lbeh",
+    "buyerActivity": null,
+    "contractFolderId": null,
+    "internalId": "e603473c-e820-4545-89d2-66d2d349a875",
+    "procedureCode": null,
+    "accelerated": null,
+    "performanceLocation": {
+      "postalZone": "66459",
+      "city": "Kirkel"
+    },
+    "source": "oeffentlichevergabe.de"
+  },
+  {
     "publicationNumber": "OEV-d9703d3f-b294-4f38-888d-ff4972147ee7",
     "title": "Renewal OpenText-Umgebung",
     "buyerName": "Stadtwerke Postdam GmbH",
@@ -29,41 +62,6 @@
     "performanceLocation": {
       "postalZone": "14480",
       "city": "Potsdam"
-    },
-    "source": "oeffentlichevergabe.de"
-  },
-  {
-    "publicationNumber": "OEV-7bec330b-8215-47f6-b029-50bf0d335669",
-    "title": "LOTTO und TOTO Mecklenburg-Vorpommern  Ausschreibung Lotterielösung für Annahmestellen (Hard- & Software)",
-    "buyerName": "Verwaltungsgesellschaft Lotto und Toto in Mecklenburg-Vorpommern mbH",
-    "country": "DEU",
-    "publicationDate": "2026-10-07",
-    "deadline": null,
-    "noticeType": "can-standard",
-    "procedureType": null,
-    "cpvCodes": [
-      "72212900",
-      "72263000",
-      "72510000"
-    ],
-    "estimatedValue": null,
-    "currency": null,
-    "description": "Beschaffung einer Android-basierten Gesamtlösung (Hard- und Software) für Lotto-Annahmestellen",
-    "originalUrl": "https://oeffentlichevergabe.de/ui/de/search/details?noticeId=7bec330b-8215-47f6-b029-50bf0d335669",
-    "lotName": null,
-    "awardedTo": null,
-    "documentsUrl": "https://oeffentlichevergabe.de/ui/de/search/details?noticeId=7bec330b-8215-47f6-b029-50bf0d335669",
-    "contractDurationMonths": null,
-    "buyerEmail": null,
-    "buyerLegalType": "pub-undert",
-    "buyerActivity": null,
-    "contractFolderId": null,
-    "internalId": "7bec330b-8215-47f6-b029-50bf0d335669",
-    "procedureCode": null,
-    "accelerated": null,
-    "performanceLocation": {
-      "postalZone": "18059",
-      "city": "Rostock"
     },
     "source": "oeffentlichevergabe.de"
   }
