@@ -31,38 +31,5 @@
       "city": "Kirkel"
     },
     "source": "oeffentlichevergabe.de"
-  },
-  {
-    "publicationNumber": "OEV-d9703d3f-b294-4f38-888d-ff4972147ee7",
-    "title": "Renewal OpenText-Umgebung",
-    "buyerName": "Stadtwerke Postdam GmbH",
-    "country": "DEU",
-    "publicationDate": "2026-10-09",
-    "deadline": null,
-    "noticeType": "cn-standard",
-    "procedureType": null,
-    "cpvCodes": [
-      "48000000"
-    ],
-    "estimatedValue": null,
-    "currency": null,
-    "description": "Gegenstand der Ausschreibung ist die Verlängerung der Softwarepflege- und Supportleistungen für die beim Auftraggeber eingesetzten OpenText-Produkte Identity Manager (IDM), Open Enterprise Server (OES) und ZENworks Configuration Management (ZCM). Darüber hinaus umfasst der Auftrag die Möglichkeit des Abrufs zusätzlicher Support-, Beratungs- und Unterstützungsleistungen im Umfeld der bestehenden OpenText-Umgebung.",
-    "originalUrl": "https://oeffentlichevergabe.de/ui/de/search/details?noticeId=d9703d3f-b294-4f38-888d-ff4972147ee7",
-    "lotName": null,
-    "awardedTo": null,
-    "documentsUrl": "https://oeffentlichevergabe.de/ui/de/search/details?noticeId=d9703d3f-b294-4f38-888d-ff4972147ee7",
-    "contractDurationMonths": null,
-    "buyerEmail": null,
-    "buyerLegalType": "pub-undert",
-    "buyerActivity": null,
-    "contractFolderId": null,
-    "internalId": "d9703d3f-b294-4f38-888d-ff4972147ee7",
-    "procedureCode": null,
-    "accelerated": null,
-    "performanceLocation": {
-      "postalZone": "14480",
-      "city": "Potsdam"
-    },
-    "source": "oeffentlichevergabe.de"
   }
 ]
