@@ -1,5 +1,76 @@
 [
   {
+    "publicationNumber": "OEV-8f0ab946-121f-4e0d-a05c-248c6607b225",
+    "title": "Virtuelle Tourist-Information - KI-basierte Gästeberatung, Los 2 - Digitale Service-Plattform (CMS & Ausspielsystem)",
+    "buyerName": "Felsenland Südeifel Tourismus GmbH",
+    "country": "DEU",
+    "publicationDate": "2026-10-15",
+    "deadline": null,
+    "noticeType": "cn-standard",
+    "procedureType": null,
+    "cpvCodes": [
+      "48000000",
+      "48611000",
+      "72212000",
+      "72261000",
+      "72322000",
+      "72415000"
+    ],
+    "estimatedValue": null,
+    "currency": null,
+    "description": "Die Felsenland Südeifel Tourismus GmbH errichtet gemeinsam mit vier Projektpartnern (TOURISTIK GmbH Gerolsteiner Land, Zweckverband Feriengebiet Bitburger Land, Verbandsgemeinde Prüm / Tourist-Information Prümer Land, Verbandsgemeinde Arzfeld / Tourist-Information Islek) im Rahmen des Projekts \"Virtuelle Tourist-Information - KI-basierte Gästeberatung\" eine flächendeckende, 24/7 verfügbare, mehrsprachige und barrierefreie touristische Informations- und Beratungsinfrastruktur in der Südeifel und im Gerolsteiner Land.  Das Vorhaben wird aus Mitteln des EFRE Rheinland-Pfalz 2021-2027 (Öffentliche Tourismusinfrastruktur - Tourismus 4.0) gefördert.  Gegenstand dieser Bekanntmachung ist Los 2 - Digitale Service-Plattform (CMS und Ausspielsysteme): die Beschaffung, Einrichtung, der Betrieb und die laufende Betreuung einer zentralen digitalen Service-Plattform bis zum 31.12.2038. Sie ist die Single Source of Truth für alle touristischen Inhalte und bildet die gemeinsame Basis für die Kiosk-Systeme aus Los 1, die mobilen Endgeräte der Gäste und das KI-Beratungssystem aus Los 3.  Die Lose 1 (Hardware) und 3 (KI-Beratungssystem) werden gesondert ausgeschrieben. Bietergemeinschaften aus Hardware-Herstellern und Software-/KI-Entwicklern sind ausdrücklich erwünscht.",
+    "originalUrl": "https://oeffentlichevergabe.de/ui/de/search/details?noticeId=8f0ab946-121f-4e0d-a05c-248c6607b225",
+    "lotName": null,
+    "awardedTo": null,
+    "documentsUrl": "https://oeffentlichevergabe.de/ui/de/search/details?noticeId=8f0ab946-121f-4e0d-a05c-248c6607b225",
+    "contractDurationMonths": null,
+    "buyerEmail": null,
+    "buyerLegalType": "pub-undert-ra",
+    "buyerActivity": null,
+    "contractFolderId": null,
+    "internalId": "8f0ab946-121f-4e0d-a05c-248c6607b225",
+    "procedureCode": null,
+    "accelerated": null,
+    "performanceLocation": {
+      "postalZone": "54669",
+      "city": "Bollendorf"
+    },
+    "source": "oeffentlichevergabe.de"
+  },
+  {
+    "publicationNumber": "OEV-eb712484-e4dc-4d34-a96e-7ff4063d7e07",
+    "title": "Bereitstellung VS-nfD (= Verschlusssache -nur für den Dienstebrauch) zugelassener mobiler Arbeitsplätze (vollintegrierter Client)",
+    "buyerName": "Landespolizeidirektion Saarland",
+    "country": "DEU",
+    "publicationDate": "2026-10-15",
+    "deadline": null,
+    "noticeType": "cn-standard",
+    "procedureType": null,
+    "cpvCodes": [
+      "48730000"
+    ],
+    "estimatedValue": null,
+    "currency": null,
+    "description": "Bereitstellung VS-nfD (=Verschlusssache - nur für den Dienstgebrauch) zugelassener mobiler Arbeitsplätze (vollintegrierter Client)",
+    "originalUrl": "https://oeffentlichevergabe.de/ui/de/search/details?noticeId=eb712484-e4dc-4d34-a96e-7ff4063d7e07",
+    "lotName": null,
+    "awardedTo": null,
+    "documentsUrl": "https://oeffentlichevergabe.de/ui/de/search/details?noticeId=eb712484-e4dc-4d34-a96e-7ff4063d7e07",
+    "contractDurationMonths": null,
+    "buyerEmail": null,
+    "buyerLegalType": "omu-lbeh",
+    "buyerActivity": null,
+    "contractFolderId": null,
+    "internalId": "eb712484-e4dc-4d34-a96e-7ff4063d7e07",
+    "procedureCode": null,
+    "accelerated": null,
+    "performanceLocation": {
+      "postalZone": "66459",
+      "city": "Kirkel"
+    },
+    "source": "oeffentlichevergabe.de"
+  },
+  {
     "publicationNumber": "OEV-d33135d7-089d-4d2c-baf4-2b122562cfa7",
     "title": "Einführung von Ki in der Eingangsverarbeitung",
     "buyerName": "ARD ZDF Deutschlandradio Beitragsservice",
