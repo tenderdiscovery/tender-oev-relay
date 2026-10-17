@@ -1,5 +1,38 @@
 [
   {
+    "publicationNumber": "OEV-f477f057-d143-47e1-8a0e-63eddbc94d95",
+    "title": "Elektrische, sicherheitstechnische und informationstechnische Anlagen  - Neubau Physik, Geb. 3335, Hans-Sommer-Straße 10, 38106 Braunschweig",
+    "buyerName": "Technische Universität Braunschweig, Geschäftsbereich 3 - Gebäudemanagement",
+    "country": "DEU",
+    "publicationDate": "2026-10-16",
+    "deadline": null,
+    "noticeType": "cn-standard",
+    "procedureType": null,
+    "cpvCodes": [
+      "45315100"
+    ],
+    "estimatedValue": null,
+    "currency": null,
+    "description": "An der Hans-Sommer-Straße wird der Neubau für Institute der Physik mit einer Nutzfläche (NUF 1-6) von ca. 4800 m² errichtet. In dem viergeschossigem Gebäude ist die Hälfte der Fläche für Labore, Mess- und Wägeräume vorgesehen, die sich im nördlichen Gebäudeteil befinden. Weitere Nutzflächen sind Büroflächen sowie Seminarräume und Hörsäle. Ein Foyer, das die Geschossebenen über einen Luftraum miteinander verbindet, dient als Haupterschließung. Im Erdgeschoss erweitern studentische Arbeitsplätze das Foyer und ermöglichen einen Zugang zum begrünten Innenhof. Die Technikzentrale erstreckt sich als fünftes Geschoss über die Hälfe der Gebäudefläche.",
+    "originalUrl": "https://oeffentlichevergabe.de/ui/de/search/details?noticeId=f477f057-d143-47e1-8a0e-63eddbc94d95",
+    "lotName": null,
+    "awardedTo": null,
+    "documentsUrl": "https://oeffentlichevergabe.de/ui/de/search/details?noticeId=f477f057-d143-47e1-8a0e-63eddbc94d95",
+    "contractDurationMonths": null,
+    "buyerEmail": null,
+    "buyerLegalType": "koerp-oer-land",
+    "buyerActivity": null,
+    "contractFolderId": null,
+    "internalId": "f477f057-d143-47e1-8a0e-63eddbc94d95",
+    "procedureCode": null,
+    "accelerated": null,
+    "performanceLocation": {
+      "postalZone": "38106",
+      "city": "Braunschweig"
+    },
+    "source": "oeffentlichevergabe.de"
+  },
+  {
     "publicationNumber": "OEV-8f0ab946-121f-4e0d-a05c-248c6607b225",
     "title": "Virtuelle Tourist-Information - KI-basierte Gästeberatung, Los 2 - Digitale Service-Plattform (CMS & Ausspielsystem)",
     "buyerName": "Felsenland Südeifel Tourismus GmbH",
@@ -67,44 +100,6 @@
     "performanceLocation": {
       "postalZone": "66459",
       "city": "Kirkel"
-    },
-    "source": "oeffentlichevergabe.de"
-  },
-  {
-    "publicationNumber": "OEV-d33135d7-089d-4d2c-baf4-2b122562cfa7",
-    "title": "Einführung von Ki in der Eingangsverarbeitung",
-    "buyerName": "ARD ZDF Deutschlandradio Beitragsservice",
-    "country": "DEU",
-    "publicationDate": "2026-10-13",
-    "deadline": null,
-    "noticeType": "cn-standard",
-    "procedureType": null,
-    "cpvCodes": [
-      "72000000",
-      "72200000",
-      "72230000",
-      "72250000",
-      "72260000",
-      "72400000"
-    ],
-    "estimatedValue": null,
-    "currency": null,
-    "description": "Gegenstand des Verfahrens: \nDer Beitragsservice von ARD, ZDF und Deutschlandradio beschafft einen KI-basierten Service zur automatisierten Verarbeitung eingehender schriftlicher Sendungen (Papier/Scan, E-Mail, Fax), der als Managed Service (IaaS, PaaS, SaaS) auf einer souveränen Cloud betrieben werden soll. Der KI-Service klassifiziert die Sendungen nach der Dokumentart-Systematik des Beitragsservice (DAK/SDAK), erkennt das fachliche Anliegen und extrahiert die für die Weiterverarbeitung erforderlichen Fachdaten. Die Ergebnisse werden jeweils mit einem Confidence-Score als strukturierte JSON-Objekte an den bestehenden Verarbeitungsprozess zurückgegeben. \nDer KI-Service wird nicht als Ersatz, sondern als Bypass zur bestehenden Eingangsverarbeitung eingeführt. Die Aussteuerung der Sendungen erfolgt über vom Beitragsservice bereitgestellte intelligente Weichen; die Kernsysteme bleiben unverändert. Nicht Gegenstand der Ausschreibung sind das Scannen bzw. die Digitalisierung der Sendungen, die Ein- und Ausgangsschnittstellen der Gesamt-Eingangsverarbeitung sowie die intelligenten Weichen selbst. \n\nDer Leistungsgegenstand gliedert sich in drei Bausteine: \n\nBaustein 1 - Cloud-Infrastruktur: Bereitstellung einer souveränen, hochverfügbaren und skalierbaren Cloud-Umgebung als IaaS einschließlich bedarfsgerecht skalierbarer CPU-, GPU-, Speicher- und Netzwerkressourcen für KI-Workloads. Es ist beabsichtigt, einen Vertrag über die Bausteine 1 und 2 mit einer 4-jährigen Festlaufzeit abzuschließen.\n\nBaustein 2 - Managed Service: Betrieb der KI-Plattform als PaaS und SaaS, insbesondere Monitoring, Logging, Incident- und Problem-Management, Patch- und Release-Management, Backup und Recovery, Kapazitätsmanagement sowie Bereitstellung und Betrieb eines standardisierten KI-Serving-Stacks (u. a. Container-Orchestrierung, Inferenz). Der Beitragsservice behält die Hoheit über Fachlogik, Agenten sowie Auswahl und Wechsel der KI-Modelle. Es ist beabsichtigt, einen Vertrag über die Bausteine 1 und 2 mit einer 4-jährigen Festlaufzeit abzuschließen.\n\nBaustein 3 - Entwicklung einer individuellen Input-Management-Lösung (\"KI-Service\"): Konzeption, Entwicklung, Integration und Produktivsetzung einer individuellen Lösung auf Basis der bereitgestellten Plattform, einschließlich Einrichtung von Klassifikation und Extraktion je Sachverhalt, Nachweis der vereinbarten Erkennungsqualität, Schulung, Dokumentation und Unterstützung der Abnahme. Der KI-Service inkl. sämtlicher Arbeitsergebnisse (u. a. Quellcode, Konfigurationen, Prompt-Artefakte, Datenmodelle, Schnittstellenbeschreibungen, Tests, Dokumentation) geht mit zeitlich, räumlich und inhaltlich unbeschränkten Nutzungsrechten auf den Beitragsservice über. Dem Beitragsservice ist zudem das Recht einzuräumen, den KI-Service uneingeschränkt zu nutzen, zu betreiben, zu verändern und weiterzuentwickeln sowie durch Dritte betreiben oder weiterentwickeln lassen können. Es darf keine Abhängigkeit vom ursprünglichen Auftragnehmer entstehen und ein Anbieterwechsel muss grundsätzlich möglich sein. Die Lösung ist vorrangig auf Basis von Open-Source-Komponenten mit permissiven Lizenzen zu realisieren. Ergänzend ist ein Dienstleistungskontingent für weitere Sachverhalte vergleichbarer Komplexität und für Optimierungen nach der Produktivnahme bzw. Abnahme vorzusehen. \n\nFachlicher Umfang und Mengengerüst: \nSchwerpunkt sind rund 1,8 Mio. formlose Schreiben pro Jahr, die bislang weder automatisch klassifiziert noch inhaltlich ausgewertet werden. Hinzu kommen rund 4,7 Mio. formgebundene Schreiben aus fünf Sachverhalten: Befreiungen, Abmeldungen, Drittschuldnererklärungen, Klärungsverfahren aufgrund Sterbefall sowie Bank- und Adressänderungen. Für die Dimensionierung ist von mindestens 6,5 Mio. Sendungen pro Jahr auszugehen (ca. 25.000 Sendungen je Arbeitstag, Spitzenwert ca. 26.700). Der Handschriftanteil liegt bei ca. 20 %. Teilweise sind besondere Kategorien personenbezogener Daten nach Art. 9 DSGVO (z. B. Gesundheitsangaben) zu verarbeiten. \n\nWesentliche funktionale Anforderungen sind insbesondere: \n- KI-gestützte Texterkennung (OCR) über den gesamten Dokumentinhalt einschließlich mehrseitiger Dokumente und Anlagen; \n- inhaltsbasierte Klassifikation und Anliegenerkennung mittels Textverständnis statt Formularankern, einschließlich Erkennung mehrerer Anliegen je Sendung und Trennung mehrerer Dokumente; \n- Extraktion der Identifikationsfelder (u. a. Beitragsnummer, Name, Anschrift) und der je Sachverhalt benötigten Fachdaten, auch aus beigefügten Nachweisen; \n- Erkennung handschriftlicher Inhalte einschließlich freier Randnotizen, Ankreuzfelder und Prüfung auf Vorhandensein von Unterschriften; \n- Confidence-Scores je Ergebnis und Feld; keine Übernahme nicht belegbarer Inhalte; Schutz vor Prompt Injection; \n- integrierter Human-in-the-Loop-Pfad mit konfigurierbaren Aussteuerungsregeln und einer barrierefreien (BITV 2.0), deutschsprachigen, vollständig tastaturbedienbaren Nachbearbeitungsoberfläche; \n- Aufnahme weiterer Dokumentklassen ohne Neuaufsatz des Systems durch den Beitragsservice selbst; kein Training von Modellgewichten mit personenbezogenen Daten der Beitragszahlenden; \n- modellagnostische Architektur (vorzugsweise Open-Weight-Modelle), REST-Schnittstellen, Container-/Microservice-Architektur, UTF-8, Reporting (u. a. Precision/Recall/F1 je Dokumentklasse) und Anbindung an die Monitoring-Werkzeuge des Beitragsservice. \n\nDie Beschreibung der ausgeschriebenen Leistungen wird unter Ziffer 5.1. dieser Bekanntmachung fortgesetzt.",
-    "originalUrl": "https://oeffentlichevergabe.de/ui/de/search/details?noticeId=d33135d7-089d-4d2c-baf4-2b122562cfa7",
-    "lotName": null,
-    "awardedTo": null,
-    "documentsUrl": "https://oeffentlichevergabe.de/ui/de/search/details?noticeId=d33135d7-089d-4d2c-baf4-2b122562cfa7",
-    "contractDurationMonths": null,
-    "buyerEmail": null,
-    "buyerLegalType": "anst-oer-land",
-    "buyerActivity": null,
-    "contractFolderId": null,
-    "internalId": "d33135d7-089d-4d2c-baf4-2b122562cfa7",
-    "procedureCode": null,
-    "accelerated": null,
-    "performanceLocation": {
-      "postalZone": "50829",
-      "city": "Köln"
     },
     "source": "oeffentlichevergabe.de"
   }
