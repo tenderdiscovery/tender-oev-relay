@@ -1,1 +1,35 @@
-[]
+[
+  {
+    "publicationNumber": "OEV-25946506",
+    "title": "Verlängerung vorhandener IGEL-Lizenzen, Gemeinde Seevetal",
+    "buyerName": "Landkreis Harburg - Zentrale Vergabestelle für die Gemeinde Seevetal",
+    "country": "DEU",
+    "publicationDate": "2026-10-20",
+    "deadline": null,
+    "noticeType": "can-standard",
+    "procedureType": null,
+    "cpvCodes": [
+      "48219300-9"
+    ],
+    "estimatedValue": null,
+    "currency": null,
+    "description": "Verlängerung vorhandener IGEL-Lizenzen, Gemeinde Seevetal",
+    "originalUrl": "https://oeffentlichevergabe.de/ui/de/search/details?noticeId=25946506",
+    "lotName": null,
+    "awardedTo": null,
+    "documentsUrl": "https://oeffentlichevergabe.de/ui/de/search/details?noticeId=25946506",
+    "contractDurationMonths": null,
+    "buyerEmail": null,
+    "buyerLegalType": null,
+    "buyerActivity": null,
+    "contractFolderId": null,
+    "internalId": "25946506",
+    "procedureCode": null,
+    "accelerated": null,
+    "performanceLocation": {
+      "postalZone": null,
+      "city": "21218 Seevetal"
+    },
+    "source": "oeffentlichevergabe.de"
+  }
+]
