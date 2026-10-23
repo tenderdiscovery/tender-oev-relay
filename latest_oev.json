@@ -1,5 +1,71 @@
 [
   {
+    "publicationNumber": "OEV-bacc1d4c-4c99-4b01-ae4e-21c59fd5d15e",
+    "title": "Elektrische, sicherheitstechnische und informationstechnische Anlagen  - Neubau Physik, Geb. 3335, Hans-Sommer-Straße 10, 38106 Braunschweig",
+    "buyerName": "Technische Universität Braunschweig, Geschäftsbereich 3 - Gebäudemanagement",
+    "country": "DEU",
+    "publicationDate": "2026-10-22",
+    "deadline": null,
+    "noticeType": "cn-standard",
+    "procedureType": null,
+    "cpvCodes": [
+      "45315100"
+    ],
+    "estimatedValue": null,
+    "currency": null,
+    "description": "An der Hans-Sommer-Straße wird der Neubau für Institute der Physik mit einer Nutzfläche (NUF 1-6) von ca. 4800 m² errichtet. In dem viergeschossigem Gebäude ist die Hälfte der Fläche für Labore, Mess- und Wägeräume vorgesehen, die sich im nördlichen Gebäudeteil befinden. Weitere Nutzflächen sind Büroflächen sowie Seminarräume und Hörsäle. Ein Foyer, das die Geschossebenen über einen Luftraum miteinander verbindet, dient als Haupterschließung. Im Erdgeschoss erweitern studentische Arbeitsplätze das Foyer und ermöglichen einen Zugang zum begrünten Innenhof. Die Technikzentrale erstreckt sich als fünftes Geschoss über die Hälfe der Gebäudefläche.",
+    "originalUrl": "https://oeffentlichevergabe.de/ui/de/search/details?noticeId=bacc1d4c-4c99-4b01-ae4e-21c59fd5d15e",
+    "lotName": null,
+    "awardedTo": null,
+    "documentsUrl": "https://oeffentlichevergabe.de/ui/de/search/details?noticeId=bacc1d4c-4c99-4b01-ae4e-21c59fd5d15e",
+    "contractDurationMonths": null,
+    "buyerEmail": null,
+    "buyerLegalType": "koerp-oer-land",
+    "buyerActivity": null,
+    "contractFolderId": null,
+    "internalId": "bacc1d4c-4c99-4b01-ae4e-21c59fd5d15e",
+    "procedureCode": null,
+    "accelerated": null,
+    "performanceLocation": {
+      "postalZone": "38106",
+      "city": "Braunschweig"
+    },
+    "source": "oeffentlichevergabe.de"
+  },
+  {
+    "publicationNumber": "OEV-c2179c3b-567c-4b17-8b85-fd71a6e00119",
+    "title": "2 Mähroboter zur Pflege der Sportplätze",
+    "buyerName": "Samtgemeinde Fredenbeck",
+    "country": "DEU",
+    "publicationDate": "2026-10-22",
+    "deadline": null,
+    "noticeType": "cn-standard",
+    "procedureType": null,
+    "cpvCodes": [
+      "77320000"
+    ],
+    "estimatedValue": null,
+    "currency": null,
+    "description": "Die Gemeinden Deinste, Fredenbeck und Kutenholz beabsichtigen die Beschaffung einer einheitlichen autonomen Mähroboterflotte zur regelmäßigen Pflege mehrerer Sportplätze und zugehöriger Nebenflächen. Gegenstand der drei 60 monatlichen Leasingverträge ist ein vollständig betriebsbereites Gesamtsystem einschließlich Mähroboter, Ladestationen, RTK-/Korrekturinfrastruktur, Software, Mobilfunk- und Nutzungsrechten, Zubehör, Installation, Schulung, Pflege, Wartung, Winterservice und Störungsbeseitigung. Die Geräte müssen für den dauerhaften professionellen Einsatz auf Sportflächen ausgelegt sein. Ziel ist ein gleichmäßiges, sportplatzgerechtes Schnittbild bei hoher Verfügbarkeit, geringer Bodenverdichtung, zentraler Steuerbarkeit und kalkulierbaren Gesamtkosten über die Nutzungsdauer. Die Mähzeiten sind in der Zeit von 7.00 - 19.00 Uhr einzuplanen, die Nachruhe ist einzuhalten um Tiere wie Igel zuschützen. Von der Flächenleistung sind Spiel- und Bewässerungszeiten abzuziehen. Die Leistungen werden als ein funktional zusammenhängendes Gesamtsystem vergeben. Der Auftragnehmer trägt die Gesamtverantwortung für die Kompatibilität aller Komponenten und für die betriebsbereite Übergabe an sämtlichen Standorten. Ein Besichtigungs-Termin der verschiedenen Sportplätze kann auf Wunsch vor der Angebotsabgabe vereinbart werden. Technische Unterlagen der angebotenen Mähroboter sind in Form einer PDF-Datei einzureichen.",
+    "originalUrl": "https://oeffentlichevergabe.de/ui/de/search/details?noticeId=c2179c3b-567c-4b17-8b85-fd71a6e00119",
+    "lotName": null,
+    "awardedTo": null,
+    "documentsUrl": "https://oeffentlichevergabe.de/ui/de/search/details?noticeId=c2179c3b-567c-4b17-8b85-fd71a6e00119",
+    "contractDurationMonths": null,
+    "buyerEmail": null,
+    "buyerLegalType": "koerp-oer-kommun",
+    "buyerActivity": null,
+    "contractFolderId": null,
+    "internalId": "c2179c3b-567c-4b17-8b85-fd71a6e00119",
+    "procedureCode": null,
+    "accelerated": null,
+    "performanceLocation": {
+      "postalZone": "21717",
+      "city": "Fredenbeck"
+    },
+    "source": "oeffentlichevergabe.de"
+  },
+  {
     "publicationNumber": "OEV-25946506",
     "title": "Verlängerung vorhandener IGEL-Lizenzen, Gemeinde Seevetal",
     "buyerName": "Landkreis Harburg - Zentrale Vergabestelle für die Gemeinde Seevetal",
