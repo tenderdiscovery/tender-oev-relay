@@ -1,5 +1,71 @@
 [
   {
+    "publicationNumber": "OEV-be558744-5b14-426a-99bf-a11c84dd364b",
+    "title": "Bereitstellung VS-nfD (= Verschlusssache -nur für den Dienstebrauch) zugelassener mobiler Arbeitsplätze (vollintegrierter Client)",
+    "buyerName": "Landespolizeidirektion Saarland",
+    "country": "DEU",
+    "publicationDate": "2026-10-23",
+    "deadline": null,
+    "noticeType": "cn-standard",
+    "procedureType": null,
+    "cpvCodes": [
+      "48730000"
+    ],
+    "estimatedValue": null,
+    "currency": null,
+    "description": "Bereitstellung VS-nfD (=Verschlusssache - nur für den Dienstgebrauch) zugelassener mobiler Arbeitsplätze (vollintegrierter Client)",
+    "originalUrl": "https://oeffentlichevergabe.de/ui/de/search/details?noticeId=be558744-5b14-426a-99bf-a11c84dd364b",
+    "lotName": null,
+    "awardedTo": null,
+    "documentsUrl": "https://oeffentlichevergabe.de/ui/de/search/details?noticeId=be558744-5b14-426a-99bf-a11c84dd364b",
+    "contractDurationMonths": null,
+    "buyerEmail": null,
+    "buyerLegalType": "omu-lbeh",
+    "buyerActivity": null,
+    "contractFolderId": null,
+    "internalId": "be558744-5b14-426a-99bf-a11c84dd364b",
+    "procedureCode": null,
+    "accelerated": null,
+    "performanceLocation": {
+      "postalZone": "66459",
+      "city": "Kirkel"
+    },
+    "source": "oeffentlichevergabe.de"
+  },
+  {
+    "publicationNumber": "OEV-01a1627e-30b1-47a7-b9e3-e03445d87e6f",
+    "title": "Koordinierung des Data Spaces Hub Germany",
+    "buyerName": "Bundesministerium für Digitales und Staatsmodernisierung",
+    "country": "DEU",
+    "publicationDate": "2026-10-23",
+    "deadline": null,
+    "noticeType": "cn-standard",
+    "procedureType": null,
+    "cpvCodes": [
+      "79421000"
+    ],
+    "estimatedValue": null,
+    "currency": null,
+    "description": "Das Vorhaben/die Leistung dient der Unterstützung des BMDS im Rahmen seiner Ressortzuständigkeit für digitale Souveränität und Datenökonomie. Im Einzelnen sind folgende Leistungen zu erbringen:\n1. Wahrnehmung von Koordinierungs- und Steuerungsaufgaben des Data Spaces Hub Germany als erster Anlaufpunkt für interessierte Stakeholder aus Deutschland (Single Point of Contact für Informationen zu Datenräumen)\n2. Sektorspezifischer und sektorübergreifender Wissensaufbau und -vermittlung zu Datenraumthemen (Know-How-Vermittlung)\n3. Fachliche und organisatorische Begleitung und Unterstützung der Arbeit von Gaia-X (Gaia-X Multiplikator)\n4. Beratende technische und rechtliche Unterstützung von Datenrauminitiativen bei der Entwicklung datenraumspezifischer Business Cases und der Etablierung interoperabler Datenräume (Geschäftsmodellentwicklung)\n5. Unterstützung beim Aufbau einer breiten Anwenderbasis für Datenräumen in Deutschland (On-Boarding-Unterstützung)\n6. Öffentlichkeitsarbeit",
+    "originalUrl": "https://oeffentlichevergabe.de/ui/de/search/details?noticeId=01a1627e-30b1-47a7-b9e3-e03445d87e6f",
+    "lotName": null,
+    "awardedTo": null,
+    "documentsUrl": "https://oeffentlichevergabe.de/ui/de/search/details?noticeId=01a1627e-30b1-47a7-b9e3-e03445d87e6f",
+    "contractDurationMonths": null,
+    "buyerEmail": null,
+    "buyerLegalType": "oberst-bbeh",
+    "buyerActivity": null,
+    "contractFolderId": null,
+    "internalId": "01a1627e-30b1-47a7-b9e3-e03445d87e6f",
+    "procedureCode": null,
+    "accelerated": null,
+    "performanceLocation": {
+      "postalZone": "10117",
+      "city": "Berlin"
+    },
+    "source": "oeffentlichevergabe.de"
+  },
+  {
     "publicationNumber": "OEV-bacc1d4c-4c99-4b01-ae4e-21c59fd5d15e",
     "title": "Elektrische, sicherheitstechnische und informationstechnische Anlagen  - Neubau Physik, Geb. 3335, Hans-Sommer-Straße 10, 38106 Braunschweig",
     "buyerName": "Technische Universität Braunschweig, Geschäftsbereich 3 - Gebäudemanagement",
@@ -62,39 +128,6 @@
     "performanceLocation": {
       "postalZone": "21717",
       "city": "Fredenbeck"
-    },
-    "source": "oeffentlichevergabe.de"
-  },
-  {
-    "publicationNumber": "OEV-25946506",
-    "title": "Verlängerung vorhandener IGEL-Lizenzen, Gemeinde Seevetal",
-    "buyerName": "Landkreis Harburg - Zentrale Vergabestelle für die Gemeinde Seevetal",
-    "country": "DEU",
-    "publicationDate": "2026-10-20",
-    "deadline": null,
-    "noticeType": "can-standard",
-    "procedureType": null,
-    "cpvCodes": [
-      "48219300-9"
-    ],
-    "estimatedValue": null,
-    "currency": null,
-    "description": "Verlängerung vorhandener IGEL-Lizenzen, Gemeinde Seevetal",
-    "originalUrl": "https://oeffentlichevergabe.de/ui/de/search/details?noticeId=25946506",
-    "lotName": null,
-    "awardedTo": null,
-    "documentsUrl": "https://oeffentlichevergabe.de/ui/de/search/details?noticeId=25946506",
-    "contractDurationMonths": null,
-    "buyerEmail": null,
-    "buyerLegalType": null,
-    "buyerActivity": null,
-    "contractFolderId": null,
-    "internalId": "25946506",
-    "procedureCode": null,
-    "accelerated": null,
-    "performanceLocation": {
-      "postalZone": null,
-      "city": "21218 Seevetal"
     },
     "source": "oeffentlichevergabe.de"
   }
