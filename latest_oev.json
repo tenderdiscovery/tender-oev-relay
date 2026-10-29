@@ -1,1 +1,36 @@
-[]
+[
+  {
+    "publicationNumber": "OEV-a73a9158-d55b-4ee4-89f6-2b1ea7f3e8f2",
+    "title": "Hardwareausstattung im Rahmen des Medienentwicklungsplanes an den Schulen in Trägerschaft des Kreises Unna; hier: Terminal-Clients",
+    "buyerName": "Kreis Unna - Der Landrat",
+    "country": "DEU",
+    "publicationDate": "2026-10-28",
+    "deadline": null,
+    "noticeType": "cn-standard",
+    "procedureType": null,
+    "cpvCodes": [
+      "30210000",
+      "48000000"
+    ],
+    "estimatedValue": null,
+    "currency": null,
+    "description": "Hardwareausstattung im Rahmen des Medienentwicklungsplanes an den Schulen in Trägerschaft des Kreises Unna; hier: Terminal-Clients, Software & Lizenzen",
+    "originalUrl": "https://oeffentlichevergabe.de/ui/de/search/details?noticeId=a73a9158-d55b-4ee4-89f6-2b1ea7f3e8f2",
+    "lotName": null,
+    "awardedTo": null,
+    "documentsUrl": "https://oeffentlichevergabe.de/ui/de/search/details?noticeId=a73a9158-d55b-4ee4-89f6-2b1ea7f3e8f2",
+    "contractDurationMonths": null,
+    "buyerEmail": null,
+    "buyerLegalType": "kommun-beh",
+    "buyerActivity": null,
+    "contractFolderId": null,
+    "internalId": "a73a9158-d55b-4ee4-89f6-2b1ea7f3e8f2",
+    "procedureCode": null,
+    "accelerated": null,
+    "performanceLocation": {
+      "postalZone": "59425",
+      "city": "Unna"
+    },
+    "source": "oeffentlichevergabe.de"
+  }
+]
