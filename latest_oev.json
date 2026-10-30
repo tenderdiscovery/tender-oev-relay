@@ -1,5 +1,39 @@
 [
   {
+    "publicationNumber": "OEV-18fdc7f4-f132-4bf5-9d06-612c965f3949",
+    "title": "Fortführung und Ausbau der Trellix-Sicherheitsplattform der BAHN-BKK (Managed Detection and Response, MDR for SecOps „Helix“) einschließlich technischer Integrations- und Onboarding-Leistungen",
+    "buyerName": "BAHN-BKK",
+    "country": "DEU",
+    "publicationDate": "2026-10-29",
+    "deadline": null,
+    "noticeType": "can-standard",
+    "procedureType": null,
+    "cpvCodes": [
+      "72000000",
+      "72250000"
+    ],
+    "estimatedValue": null,
+    "currency": null,
+    "description": "Die BAHN-BKK führt ihre produktiv genutzte Endpoint-Sicherheitsplattform des Herstellers Trellix (Trellix Endpoint Security mit ePO) für 1.300 Endpoints fort und erweitert sie um einen kontinuierlichen Service zur Erkennung, Bewertung und Behandlung von Sicherheitsereignissen mit verlässlicher Überwachung und Eskalation auch außerhalb der üblichen Betriebszeiten (Sicherungssysteme nach KRITIS-Verordnung und § 31 Abs. 2 BSIG); Vertragslaufzeit vier Jahre (30.09.2026 bis 29.09.2030), Gesamtprojekt zum Festpreis. Die Komponenten EDR with Forensics (HX Endpoint Security), IVX Sandbox und \nSIEM/Logmanagement (ESM/ELM/ERC) wurden bisher ausschließlich im Rahmen eines von der eyeT GmbH konzipierten, implementierten und technisch begleiteten Proof of Concept mit zeitlich befristeten Proof-of-Concept-Lizenzen betrieben; sie werden mit diesem Auftrag erstmals regulär lizenziert (dauerhafte Lizenzen bzw. Subskriptionen mit Laufzeiten gemäß Auftrag). Der Auftrag umfasst drei Leistungsteile:\n(1) Lizenz-, Subskriptions- und Supportleistungen des Herstellers Trellix, bezogen über den autorisierten Trellix Platinum Partner eyeT GmbH: Endpoint-Sicherheitsplattform Trellix Endpoint Enterprise Cloud für 1.300 Endpoints einschließlich EDR with Forensics (HX Endpoint Security) und Appliance-Lizenzen; SIEM/Logmanagement (Trellix ESM/ELM/ERC, dauerhafte Lizenz mit Support); Sandbox/Threat Intelligence (Trellix IVX VM300 einschließlich Central Management und Dynamic Threat Intelligence); Trellix API; Helix Core als SecOps-Plattform (Jahre 2 bis 4). Die vereinbarten Cloud-Dienste des Herstellers (Endpoint Enterprise Cloud, EDR-Cloud-Tenant, HX Cloud Forensics, Helix) werden im deutschen Rechenzentrum des Herstellers betrieben; die herstellerseitige Cloud- Infrastruktur und Datenhaltung sind im Leistungsumfang enthalten.\n(2) Managed Detection and Response durch Trellix: MDR1 for EDR mit EDR Wise (Jahr 1) und Trellix Complete SOC-Service for SecOps „Helix“ (MDR1 for Helix, Jahre 2 bis 4) mit 24/7-Überwachung, Analyse und Reaktion; Implementierungsleistungen des Herstellers im Umfang der zwei gebuchten Trellix Success Services RemoteDeploy-Leistungspakete (Remote-Deployment-Leistungen einschließlich Einweisung/Schulung und Unterstützung des Änderungsmanagements gemäß Herstellerbeschreibung).\n(3) Technische Integrations- und Onboarding-Leistungen der eyeT GmbH im Umfang der Anlage 1 zur Auftragsbestätigung. Sie knüpfen an die im Proof of Concept erarbeiteten und validierten Ergebnisse zur Systemarchitektur, zur Richtlinienstruktur und zu den Betriebs- und Eskalationsschnittstellen an und überführen diese projektspezifischen Vorarbeiten in die vorgesehene Betriebsumgebung: technische Projektkoordination; Einrichtung und Abstimmung der Administrationszugänge (Cloud-Tenant, ePO, HX Cloud Console, MDR-Team); Integration von On-Prem-ePO, EDR-Cloud-Tenant und HX-Forensik-Umgebung; Konfiguration der EDR+F-Richtlinien und der Softwareverteilung; Pilotierung und Qualitätssicherung; fachliche Vorbereitung und Prüfung der MDR-Onboarding-, Eskalations- und Reaktionsprozesse einschließlich Ereignisweiterleitung und Mitwirkung an der Onboarding-Abnahme; Begleitung des Rollouts auf 1.300 Endpoints (Wellenplanung, Begleitung der Verteilung, Nachkontrolle); Begleitung und technische Unterstützung der Umstellung auf MDR for SecOps „Helix“ (Leistungsphase ab 30.09.2027); Lieferung der Lizenznachweise sowie Lizenz- und Vertragsmanagement (Laufzeitüberwachung, Ansprechpartner gegenüber Hersteller und Distributor) über die Laufzeit. Die laufende Sicherheitsüberwachung und Incident-Bearbeitung erfolgen durch das Trellix MDR-Team; die organisatorischen und technischen Freigaben sowie die Abnahmeentscheidungen trifft die BAHN-BKK.",
+    "originalUrl": "https://oeffentlichevergabe.de/ui/de/search/details?noticeId=18fdc7f4-f132-4bf5-9d06-612c965f3949",
+    "lotName": null,
+    "awardedTo": null,
+    "documentsUrl": "https://oeffentlichevergabe.de/ui/de/search/details?noticeId=18fdc7f4-f132-4bf5-9d06-612c965f3949",
+    "contractDurationMonths": null,
+    "buyerEmail": null,
+    "buyerLegalType": "anst-oer-bund",
+    "buyerActivity": null,
+    "contractFolderId": null,
+    "internalId": "18fdc7f4-f132-4bf5-9d06-612c965f3949",
+    "procedureCode": null,
+    "accelerated": null,
+    "performanceLocation": {
+      "postalZone": "60486",
+      "city": "Frankfurt am Main"
+    },
+    "source": "oeffentlichevergabe.de"
+  },
+  {
     "publicationNumber": "OEV-a73a9158-d55b-4ee4-89f6-2b1ea7f3e8f2",
     "title": "Hardwareausstattung im Rahmen des Medienentwicklungsplanes an den Schulen in Trägerschaft des Kreises Unna; hier: Terminal-Clients",
     "buyerName": "Kreis Unna - Der Landrat",
