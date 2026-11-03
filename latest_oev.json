@@ -31,40 +31,5 @@
       "city": "Braunschweig"
     },
     "source": "oeffentlichevergabe.de"
-  },
-  {
-    "publicationNumber": "OEV-2d6357ba-b99c-4670-b41e-47cdc3e805e5",
-    "title": "Rahmenvereinbarung zur Beschaffung von Beratungs- und Unterstützungsleistungen zur Etablierung und Weiterentwicklung der hamburgweiten Data Governance",
-    "buyerName": "Freie und Hansestadt Hamburg, vertreten durch die Senatskanzlei, Amt für IT und Digitalisierung",
-    "country": "DEU",
-    "publicationDate": "2026-10-30",
-    "deadline": null,
-    "noticeType": "cn-standard",
-    "procedureType": null,
-    "cpvCodes": [
-      "72000000",
-      "72220000",
-      "72250000"
-    ],
-    "estimatedValue": null,
-    "currency": null,
-    "description": "Beschaffung von Beratungs- und Unterstützungsleistungen zur Etablierung und Weiterentwicklung einer hamburgweiten Data Governance.",
-    "originalUrl": "https://oeffentlichevergabe.de/ui/de/search/details?noticeId=2d6357ba-b99c-4670-b41e-47cdc3e805e5",
-    "lotName": null,
-    "awardedTo": null,
-    "documentsUrl": "https://oeffentlichevergabe.de/ui/de/search/details?noticeId=2d6357ba-b99c-4670-b41e-47cdc3e805e5",
-    "contractDurationMonths": null,
-    "buyerEmail": null,
-    "buyerLegalType": "oberst-lbeh",
-    "buyerActivity": null,
-    "contractFolderId": null,
-    "internalId": "2d6357ba-b99c-4670-b41e-47cdc3e805e5",
-    "procedureCode": null,
-    "accelerated": null,
-    "performanceLocation": {
-      "postalZone": "20355",
-      "city": "Hamburg"
-    },
-    "source": "oeffentlichevergabe.de"
   }
 ]
