@@ -1,1 +1,36 @@
-[]
+[
+  {
+    "publicationNumber": "OEV-3322f5ab-88a0-468b-9c58-931b0dd6bd1d",
+    "title": "DriveLock Lizenzen",
+    "buyerName": "IT des Bezirks Oberbayern GmbH",
+    "country": "DEU",
+    "publicationDate": "2026-11-08",
+    "deadline": null,
+    "noticeType": "cn-standard",
+    "procedureType": null,
+    "cpvCodes": [
+      "48000000",
+      "48517000"
+    ],
+    "estimatedValue": null,
+    "currency": null,
+    "description": "Beschaffung, Bereitstellung, Einrichtung und betriebsbereite Einführung einer zentral administrierbaren DriveLock Endpoint-Security-Lösung als Sovereign-Cloud-Dienst \nfür 8.500 Endpunkte. Schwerpunkt ist zunächst die Einführung von DriveLock Application Control zur kontrollierten Ausführung von Anwendungen, Skripten und weiteren ausführbaren Inhalten. Ergänzend sind die Einrichtung des Cloud Tenants, Technical Account Management, ein Inbetriebnahme-Workshop sowie die spätere Einführung von DriveLock Device Control vorgesehen. Die Lösung wird auf STACKIT betrieben und soll in die bestehende IT- und Sicherheitsarchitektur integriert werden",
+    "originalUrl": "https://oeffentlichevergabe.de/ui/de/search/details?noticeId=3322f5ab-88a0-468b-9c58-931b0dd6bd1d",
+    "lotName": null,
+    "awardedTo": null,
+    "documentsUrl": "https://oeffentlichevergabe.de/ui/de/search/details?noticeId=3322f5ab-88a0-468b-9c58-931b0dd6bd1d",
+    "contractDurationMonths": null,
+    "buyerEmail": null,
+    "buyerLegalType": "kommun-beh",
+    "buyerActivity": null,
+    "contractFolderId": null,
+    "internalId": "3322f5ab-88a0-468b-9c58-931b0dd6bd1d",
+    "procedureCode": null,
+    "accelerated": null,
+    "performanceLocation": {
+      "postalZone": "85540",
+      "city": "Haar"
+    },
+    "source": "oeffentlichevergabe.de"
+  }
+]
