@@ -1,5 +1,38 @@
 [
   {
+    "publicationNumber": "OEV-b16d7241-a1e6-42d1-ab3d-6a024d0cedd6",
+    "title": "Errichtung und Betrieb von IT-Backend-Systemen für die zukünftigen Wasserstofftransportnetzbetreiber (WTNB) gemäß BNetzA Festlegungen WasABi und WaKandA",
+    "buyerName": "Gasunie Deutschland GmbH & Co. KG",
+    "country": "DEU",
+    "publicationDate": "2026-11-13",
+    "deadline": null,
+    "noticeType": "can-standard",
+    "procedureType": null,
+    "cpvCodes": [
+      "72212100"
+    ],
+    "estimatedValue": null,
+    "currency": null,
+    "description": "Die IT‑Backend‑Systeme für die hier beteiligten zukünftigen Wasserstofftransportnetzbetreiber (WTNB) gemäß den Festlegungen WasABi und WaKandA umfassen den Aufbau und Betrieb einer integrierten, cloudbasierten Lösung. Diese besteht aus einer Cloud‑Infrastruktur für den technischen Betrieb, einer Applikation zur Abbildung der Geschäftsprozesse, standardisierten APIs für den Datenaustausch sowie einer Netzwerkinfrastruktur für sicheren, internetbasierten Zugriff. Gegenstand des Auftrags sind sowohl Entwicklung als auch Betrieb sämtlicher hierfür erforderlicher Produkte und Services. Die funktionale Umsetzung erfolgt gemäß den regulatorischen Vorgaben und wird agil, bedarfsgerecht und marktorientiert durchgeführt. In der Hochlaufphase sind manuelle oder teilmanuelle Lösungen zulässig, sofern eine vollständige IT‑Umsetzung wirtschaftlich nicht vertretbar ist. Die Applikation umfasst Module für das Kapazitätsmanagement (Stamm‑, Kapazitäts‑ und Produktdaten), das Vertragsmanagement und die Abrechnung (Verträge, Bilanzkreise, Rechnungen), das Nominierungsmanagement (Nominierungen, Mengenanmeldungen, Matching, Transportaufträge) sowie das Energiedatenmanagement (Zählerstände, Mengenermittlung, Bilanzierung). Weitere Funktionen betreffen Transparenzdaten und Engpassmanagement. Die Anbindung externer Systeme erfolgt über standardisierte, dokumentierte und versionierte APIs. Anzubindende Systeme sind insbesondere der Data Hub des Marktgebietsverantwortlichen, interne WTNB‑Systeme wie Netzsteuerung, Netzplanung, Zählerfernauslesung, Finance und Datensenken, die Vermarktungsplattform sowie Transparenzplattformen. Bereits im Minimum Viable Product (MVP) sind zentrale nicht‑funktionale Anforderungen umzusetzen. Dazu gehören Multi‑Mandantenfähigkeit, Flexibilität zur Anpassung an den Markthochlauf, Portabilität und Offenheit für externe Services sowie eine klare Mandantenabgrenzung über Rollen‑ und Berechtigungskonzepte. Plattformweit sind gemeinsame Standards zu nutzen, um Doppelstrukturen zu vermeiden. Die Benutzeroberflächen sind nutzerfreundlich und je Nutzergruppe getrennt bereitzustellen. Sämtliche regulatorischen Vorgaben aus WasABi, WaKandA und weiteren einschlägigen Regelwerken sind einzuhalten. Die Architektur muss skalierbar und hochverfügbar sein, eine dynamische Anpassung an Datenvolumen und Zugriffszahlen ermöglichen und einzelne Services unabhängig skalieren können. Anforderungen an Sicherheit und Kritische Infrastrukturen sind vollständig zu erfüllen. Die Lösung sollte hohe Anforderungen an Agilität, IT‑Security, Interoperabilität und Integrationsfähigkeit erfüllen und eine Verfügbarkeit von 99,9 Prozent sicherstellen. Die Performanceanforderungen sollten Antwortzeiten von maximal zwei Sekunden umfassen. Sicherheitsanforderungen beinhalten Datenverschlüsselung und Zwei‑Faktor‑Authentifizierung. Die Grundfunktionen müssen innerhalb kurzer Zeit erlernbar sein. Die Lösung ist multi‑cloud‑fähig auszugestalten und soll mobile Anwendungen unterstützen. Eine Migration zu anderen Cloud‑Providern muss möglich sein. Darüber hinaus sind alle relevanten Normen, insbesondere DSGVO, KRITIS, ISO/IEC 27001 und BSI‑Vorgaben, einzuhalten (siehe Eignungskriterien). Die digitale Souveränität ist sicherzustellen, insbesondere durch Datenverarbeitung im europäischen Rechtsraum, die Vermeidung von Abhängigkeiten von Hyperscalern und den Schutz vor Zugriffen durch außereuropäische Rechtsordnungen. Die Daten bleiben Eigentum der WTNB. Die Lösung ist mindestens in deutscher und englischer Sprache bereitzustellen. Die Integrationsarchitektur umfasst eine Enterprise‑Application‑Integration, die Interoperabilität, Skalierbarkeit, Sicherheit, Echtzeit‑ und Batch‑Verarbeitung, Monitoring und Datenkonsistenz gewährleistet. Die APIs müssen hohe Anforderungen an Performance, Sicherheit und Skalierbarkeit erfüllen, vollständig dokumentiert und versioniert sein und einheitliche Fehlerformate sowie Mehrsprachigkeit und Zeitzonenunterstützung bieten. Der Betrieb der IT‑Backend‑Systeme erfolgt durch den Auftragnehmer als Generalunternehmer im Rahmen eines SaaS‑Modells. Die C5‑Mindestanforderungen des BSI sind einzuhalten. Der produktive Betrieb beginnt am 1. Januar 2028 mit dem MVP. Zu den Leistungen des Auftragnehmers gehören die Errichtung und Bereitstellung von Software, Zertifikaten und Lizenzen, die Sicherstellung der Betriebsbereitschaft einschließlich Monitoring, die Störungsbehebung und Analyse von Sicherheitsvorfällen, die Performance‑Optimierung, die kontinuierliche Versorgung mit Releases und Patches sowie die Durchführung von Backups. Im Rahmen des Servicemanagements stellt der Auftragnehmer die Systemverfügbarkeit und Aktualität sicher, betreibt die erforderliche Infrastruktur und stellt mindestens drei Stages (DEV, TEST, PROD) bereit. Er gewährleistet einen 24/7‑Support für Prozesse und Schnittstellen sowie einen Service‑Desk mit Ticketmanagement und vollständiger Dokumentation aller Incidents. Die Serviceorganisation umfasst den Aufbau der notwendigen Strukturen sowie die Durchführung von Störungsannahme, Incident‑, Problem‑ und Eskalationsmanagement. Der Leistungsumfang umfasst zudem solche weiteren, im Projektverlauf auf Grund regulatorischer, technischer oder prozessualer Entwicklungen erforderlichen Leistungen - einschließlich Weiterentwicklungen, Anpassungen und Ergänzungen der Lösung - soweit diese in einem funktionalen und sachlichen Zusammenhang mit den beschriebenen IT Backend Systemen stehen und für deren ordnungsgemäßen, sicheren und effizienten Betrieb notwendig werden.",
+    "originalUrl": "https://oeffentlichevergabe.de/ui/de/search/details?noticeId=b16d7241-a1e6-42d1-ab3d-6a024d0cedd6",
+    "lotName": null,
+    "awardedTo": null,
+    "documentsUrl": "https://oeffentlichevergabe.de/ui/de/search/details?noticeId=b16d7241-a1e6-42d1-ab3d-6a024d0cedd6",
+    "contractDurationMonths": null,
+    "buyerEmail": null,
+    "buyerLegalType": null,
+    "buyerActivity": null,
+    "contractFolderId": null,
+    "internalId": "b16d7241-a1e6-42d1-ab3d-6a024d0cedd6",
+    "procedureCode": null,
+    "accelerated": null,
+    "performanceLocation": {
+      "postalZone": "30655",
+      "city": "Hannover"
+    },
+    "source": "oeffentlichevergabe.de"
+  },
+  {
     "publicationNumber": "OEV-45ed6e20-9327-4239-b960-f0b97d31dcd0",
     "title": "MARKTERKUNDUNG System zur Extraktion und Strukturierten Bereitstellung klinischer Daten nebst Anwendungen",
     "buyerName": "Universitätsklinikum Aachen AöR",
@@ -62,39 +95,6 @@
     "performanceLocation": {
       "postalZone": null,
       "city": "44623 Herne"
-    },
-    "source": "oeffentlichevergabe.de"
-  },
-  {
-    "publicationNumber": "OEV-01a1c05f-eaa9-4e59-badb-0b87ea3836e0",
-    "title": "Koordinierung des Data Spaces Hub Germany",
-    "buyerName": "Bundesministerium für Digitales und Staatsmodernisierung",
-    "country": "DEU",
-    "publicationDate": "2026-11-10",
-    "deadline": null,
-    "noticeType": "cn-standard",
-    "procedureType": null,
-    "cpvCodes": [
-      "79421000"
-    ],
-    "estimatedValue": null,
-    "currency": null,
-    "description": "Das Vorhaben/die Leistung dient der Unterstützung des BMDS im Rahmen seiner Ressortzuständigkeit für digitale Souveränität und Datenökonomie. Im Einzelnen sind folgende Leistungen zu erbringen:\n1. Wahrnehmung von Koordinierungs- und Steuerungsaufgaben des Data Spaces Hub Germany als erster Anlaufpunkt für interessierte Stakeholder aus Deutschland (Single Point of Contact für Informationen zu Datenräumen)\n2. Sektorspezifischer und sektorübergreifender Wissensaufbau und -vermittlung zu Datenraumthemen (Know-How-Vermittlung)\n3. Fachliche und organisatorische Begleitung und Unterstützung der Arbeit von Gaia-X (Gaia-X Multiplikator)\n4. Beratende technische und rechtliche Unterstützung von Datenrauminitiativen bei der Entwicklung datenraumspezifischer Business Cases und der Etablierung interoperabler Datenräume (Geschäftsmodellentwicklung)\n5. Unterstützung beim Aufbau einer breiten Anwenderbasis für Datenräumen in Deutschland (On-Boarding-Unterstützung)\n6. Öffentlichkeitsarbeit",
-    "originalUrl": "https://oeffentlichevergabe.de/ui/de/search/details?noticeId=01a1c05f-eaa9-4e59-badb-0b87ea3836e0",
-    "lotName": null,
-    "awardedTo": null,
-    "documentsUrl": "https://oeffentlichevergabe.de/ui/de/search/details?noticeId=01a1c05f-eaa9-4e59-badb-0b87ea3836e0",
-    "contractDurationMonths": null,
-    "buyerEmail": null,
-    "buyerLegalType": "oberst-bbeh",
-    "buyerActivity": null,
-    "contractFolderId": null,
-    "internalId": "01a1c05f-eaa9-4e59-badb-0b87ea3836e0",
-    "procedureCode": null,
-    "accelerated": null,
-    "performanceLocation": {
-      "postalZone": "10117",
-      "city": "Berlin"
     },
     "source": "oeffentlichevergabe.de"
   }
